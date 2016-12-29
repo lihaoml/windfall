@@ -5,9 +5,12 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.ticker as mticker
 import matplotlib.dates as mdates
-from matplotlib.finance import candlestick
+from matplotlib.finance import candlestick_ohlc
 import matplotlib
 import pylab
+from matplotlib.finance import quotes_historical_yahoo_ohlc
+
+
 matplotlib.rcParams.update({'font.size': 9})
 
 
@@ -92,7 +95,7 @@ def graphData(stock,MA1,MA2):
         y = len(date)
         newAr = []
         while x < y:
-            appendLine = date[x],openp[x],closep[x],highp[x],lowp[x],volume[x]
+            appendLine = date[x],openp[x],highp[x],lowp[x],closep[x],volume[x]
             newAr.append(appendLine)
             x+=1
             
@@ -104,8 +107,9 @@ def graphData(stock,MA1,MA2):
         fig = plt.figure(facecolor='#07000d')
             
         ax1 = plt.subplot2grid((6,4), (1,0), rowspan=4, colspan=4, axisbg='#07000d')
-        candlestick(ax1, newAr[-SP:], width=.6, colorup='#53c156', colordown='#ff1717')
-            
+        candlestick_ohlc(ax1, newAr[-SP:], width=.6, colorup='#53c156', colordown='#ff1717')
+#        quotes = quotes_historical_yahoo_ohlc('ES3.SI', (2015,12,31), (2016,12,31))
+        
         Label1 = str(MA1)+' SMA'
         Label2 = str(MA2)+' SMA'
             

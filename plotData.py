@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.ticker as mticker
 import matplotlib.dates as mdates
-from matplotlib.finance import candlestick
+from matplotlib.finance import candlestick_ohlc
 import matplotlib
 import pylab
 matplotlib.rcParams.update({'font.size': 9})
@@ -79,7 +79,7 @@ def graphData(stock,MA1,MA2):
             
             
         ax1 = plt.subplot2grid((6,4), (1,0), rowspan=4, colspan=4)
-        candlestick(ax1, newAr[-SP:], width=.6)
+        candlestick_ohlc(ax1, newAr[-SP:], width=.6)
             
         Label1 = str(MA1)+' SMA'
         Label2 = str(MA2)+' SMA'
