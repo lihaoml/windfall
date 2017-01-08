@@ -1,4 +1,4 @@
-Ticker,Name,Exchange,Country,Category Name,Category Number
+Symbol,Name,Exchange,Country,Category Name,Category Number
 VATSAEDU.BO,VATSA EDUCATIONS LTD.,BSE,India,,0
 RES.TO,Rare Element Resources Ltd.,TOR,Canada,Conglomerates,210
 WELLNESS.BO,WELLNESS NONI LTD.,BSE,India,,0
@@ -41,7 +41,7 @@ QC1.F,NY COMMTY BANCORP,FRA,Germany,Savings & Loans,419
 4543.TWO,MAN ZAI,TWO,Taiwan,,0
 TKECF,"Tokyo Electric Power Company, Incorporated",PNK,USA,,0
 BBSI,Barrett Business Services Inc.,NMS,USA,Staffing & Outsourcing Services,764
-PSAN.DE,"PSI Aktiengesellschaft fŸr Produkte und Systeme der Informationstechnologie",GER,Germany,Business Software & Services,826
+PSAN.DE,"PSI Aktiengesellschaft fÙr Produkte und Systeme der Informationstechnologie",GER,Germany,Business Software & Services,826
 GFOX,Gray Fox Petroleum Corp.,PNK,USA,Independent Oil & Gas,121
 SWJ.L,John Swan & Sons plc,LSE,UK,,0
 JRO,Nuveen Floating Rate Income Opportunity Fund,NYQ,USA,,0
@@ -130,7 +130,7 @@ LHA.F,DT.LUFTHANSA N,FRA,Germany,Major Airlines,770
 MAP.MC,MAPFRE,MCE,Spain,,0
 UGI.F,SUGI HOLDINGS,FRA,Germany,Drug Delivery,513
 BZ.V,Benz Mining Corp.,VAN,Canada,Industrial Metals & Minerals,133
-FMX,"Fomento Econ—mico Mexicano, S.A.B de C.V",NYQ,USA,Beverages - Brewers,346
+FMX,"Fomento EconÑmico Mexicano, S.A.B de C.V",NYQ,USA,Beverages - Brewers,346
 003010.KS,Haein Corporation,KSC,Korea,,0
 QNTO,Quaint Oak Bancorp Inc,PNK,USA,Regional - Northeast Banks,411
 NAII,Natural Alternatives International Inc.,NGM,Sweden,Drug Related Products,514
@@ -266,7 +266,7 @@ VTC.L,The Vitec Group plc,LSE,UK,Communication Equipment,841
 716156.TWO,JIH SUN SECURITIES C/W 27/07/15,TWO,Taiwan,,0
 000040.KS,"KR Motors Co., Ltd.",KSC,Korea,,0
 CS.PA,AXA Group,PAR,France,Property & Casualty Insurance,432
-OCI1.DE,"Actividades de Construcci—n y Servicios, S.A.",GER,Germany,General Contractors,636
+OCI1.DE,"Actividades de ConstrucciÑn y Servicios, S.A.",GER,Germany,General Contractors,636
 YOHOF,Yoho Resources Inc.,PNK,USA,,0
 WIMHF,William Hill plc,PNK,USA,,0
 GCHE.ME,Public Joint Stock Company Cherkizovo Group,MCX,India,,0
@@ -314,7 +314,7 @@ QUS.F,QUESTAR CORP,FRA,Germany,Gas Utilities,912
 GTOMY,Gemalto NV,PNK,USA,,0
 DIP0.BA,ARGENTINA(REP OF) 5.83% DISC NT,BUE,Argentina,,0
 KIN2.DE,Kinross Gold Corporation,GER,Germany,Gold,134
-HSPG.OL,H¿land og Setskog Sparebank,OSL,Norway,Money Center Banks,410
+HSPG.OL,HÀland og Setskog Sparebank,OSL,Norway,Money Center Banks,410
 ZNHH.BE,CHINA SOUTHN AIR-H-,BER,Germany,Major Airlines,770
 EFII,"Electronics for Imaging, Inc.",NMS,USA,Computer Peripherals,815
 UTG.L,Unite Group plc,LSE,UK,Property Management,448
@@ -467,7 +467,7 @@ APGA,American Paramount Gold Corp.,PNK,USA,Industrial Metals & Minerals,133
 BZF1.F,VMWARE-A,FRA,Germany,Business Software & Services,826
 URZ.TO,Uranerz Energy Corp.,TOR,Canada,,0
 NXK,Nuveen New York Dividend Advantage Municipal Fund 2,ASE,USA,,0
-OFSA3.SA,Ouro Fino Saœde Animal Participaç›es S.A.,SAO,Brazil,,0
+OFSA3.SA,Ouro Fino SaÏde Animal Participaç_es S.A.,SAO,Brazil,,0
 FRPC,First Republic Corp. of America,PNK,USA,,0
 RBS-PF,Royal Bank of Scotland Group Pl,NYQ,USA,,0
 SNFRF,Sinofert Holdings Ltd.,PNK,USA,,0
@@ -789,7 +789,7 @@ TDE,Telephone & Data Systems Inc.,NYQ,USA,,0
 AXC.SI,YONGNAM HLDGS NPV (POST-CONS),SES,Singapore,,0
 4980.TWO,JORJIN,TWO,Taiwan,,0
 717247.TWO,YUANTA SECURITIES C/W 03/08/15(,TWO,Taiwan,,0
-LVMUY,LVMH Mo‘t Hennessy Louis Vuitton SA,PNK,USA,,0
+LVMUY,LVMH MoÔt Hennessy Louis Vuitton SA,PNK,USA,,0
 STXS,Stereotaxis Inc.,NCM,Australia,Medical Appliances & Equipment,521
 WS7A.F,BINHAI INVESTMENT,FRA,Germany,,0
 SLTA,Soltera Mining Corp.,PNK,USA,,0
@@ -1052,7 +1052,7 @@ VEND,"Fresh Healthy Vending International, Inc.",OBB,USA,Advertising Agencies,72
 FCCY,1st Constitution Bancorp,NGM,Sweden,Regional - Northeast Banks,411
 EOLU-B.ST,Eolus Vind AB,STO,Sweden,Diversified Utilities,913
 JUVE.MI,Juventus Football Club S.p.A.,MIL,Italy,"Recreational Goods, Other",317
-VIVT3.SA,Telef™nica Brasil S.A.,SAO,Brazil,Wireless Communications,840
+VIVT3.SA,Telefªnica Brasil S.A.,SAO,Brazil,Wireless Communications,840
 SESF.EX,SES GLOBAL FDR,EUX,Germany,,0
 HKBT,HK Battery Technology Inc.,PNK,USA,Conglomerates,210
 TANO,TravelCenters of America LLC,NYQ,USA,,0
@@ -1502,7 +1502,7 @@ LDRXF,Leader Energy Services Ltd.,PNK,USA,,0
 MTSN,Mattson Technology Inc.,NMS,USA,Semiconductor Equipment & Materials,834
 JP2.F,POYRY,FRA,Germany,General Contractors,636
 TLGO.MC,TALGO,MCE,Spain,,0
-CRQDF,"Cr_dito Real, S.A.B. de C.V., Sociedad Financiera de Objeto Mœltiple, Entidad Regulada",PNK,USA,,0
+CRQDF,"Cr_dito Real, S.A.B. de C.V., Sociedad Financiera de Objeto MÏltiple, Entidad Regulada",PNK,USA,,0
 OA,"Orbital ATK, Inc.",NYQ,USA,Aerospace/Defense Products & Services,611
 SMZ1.F,SINO BIOPHARMA,FRA,Germany,Biotechnology,515
 LBY,Libbey Inc.,ASE,USA,Home Furnishings & Fixtures,311
@@ -2100,7 +2100,7 @@ DTRL,The Detroit Legal News Company,PNK,USA,,0
 CLIRF,Clearford Water Systems Inc.,PNK,USA,Scientific & Technical Instruments,837
 PDW.BE,PGG WRIGHTSON,BER,Germany,,0
 GXP-PD,Great Plains Energy Incorporate,NYQ,USA,,0
-SIDN.MX,Companhia Siderœrgica Nacional,MEX,Mexico,Steel & Iron,130
+SIDN.MX,Companhia SiderÏrgica Nacional,MEX,Mexico,Steel & Iron,130
 NZTCY,Spark New Zealand Limited,PNK,USA,,0
 STOB.L,Stobart Group Limited,LSE,UK,Trucking,774
 JNOS.ME,JSC Slavneft-YANOS,MCX,India,,0
@@ -2220,7 +2220,7 @@ CTY.L,City of London Ord,LSE,UK,,0
 MRCBF,Morguard Corp.,PNK,USA,,0
 0ZD.F,ZENDESK,FRA,Germany,,0
 XCY.BE,OPKO HEALTH,BER,Germany,,0
-PETR4.SA,Petr—leo Brasileiro S.A. - Petrobras,SAO,Brazil,,0
+PETR4.SA,PetrÑleo Brasileiro S.A. - Petrobras,SAO,Brazil,,0
 BNCN,BNC Bancorp,NCM,Australia,Regional - Mid-Atlantic Banks,412
 5FB.BE,FITBIT-A,BER,Germany,,0
 RNKLF,Royal Nickel Corporation,PNK,USA,,0
@@ -2234,7 +2234,7 @@ NKP.AX,Nkwe Platinum Limited,ASX,Australia,Industrial Metals & Minerals,133
 721719.TWO,YUANTA SECURITIES C/W 18/05/16(,TWO,Taiwan,,0
 XT3B.BE,VALE INDONESIA,BER,Germany,,0
 DPZUF,Domino's Pizza Enterprises Limited,PNK,USA,,0
-GAPB.MX,"Grupo Aeroportuario del Pac’fico, S.A.B. de C.V.",MEX,Mexico,"Air Services, Other",772
+GAPB.MX,"Grupo Aeroportuario del PacÕfico, S.A.B. de C.V.",MEX,Mexico,"Air Services, Other",772
 XTED11.SA,XTED - TRX Edificios Corporativos Fundo Invest Imobiliario FII Fund,SAO,Brazil,,0
 NOA.TO,North American Energy Partners Inc.,TOR,Canada,Oil & Gas Equipment & Services,124
 2829-OL.HK,X ISHARES A FIN,HKG,Hong Kong,,0
@@ -2261,9 +2261,9 @@ NDRO,Enduro Royalty Trust,NYQ,USA,Independent Oil & Gas,121
 JAYSREETEA-EQ.NS,JAYSHREE TEA & INDUSTRIES LIMIT,NSI,India,,0
 DGNG,Diguang International Development Company Ltd.,PNK,USA,,0
 036640.KQ,"HRS Co., Ltd",KOE,South Korea,,0
-TSU,TIM Participaç›es S.A.,NYQ,USA,Wireless Communications,840
+TSU,TIM Participaç_es S.A.,NYQ,USA,Wireless Communications,840
 ANELE.IS,Anel Elektrik Proje Taahhut ve Ticaret A.S.,IST,Turkey,,0
-PBR,Petr—leo Brasileiro S.A. - Petrobras,NYQ,USA,,0
+PBR,PetrÑleo Brasileiro S.A. - Petrobras,NYQ,USA,,0
 FFA,First Trust Enhanced Equity Income Fund,NYQ,USA,,0
 9679OR.KL,WCT HOLDINGS BERHAD-ORDINARY RI,KLS,Malaysia,,0
 TPI,"Tianyin Pharmaceutical Co., Inc.",ASE,USA,Drug Manufacturers - Other,511
@@ -2988,7 +2988,7 @@ CM4.F,CONE MIDSTREAM PART,FRA,Germany,,0
 AINC,"Ashford, Inc.",ASE,USA,,0
 VICTENT.BO,VICTORIA ENTERPRISES LTD.,BSE,India,,0
 ZCT1.BE,ZIMTU CAPITAL,BER,Germany,Asset Management,422
-WLV2.DE,WŸrttembergische Lebensversicherung Aktiengesellschaft,GER,Germany,,0
+WLV2.DE,WÙrttembergische Lebensversicherung Aktiengesellschaft,GER,Germany,,0
 0612.HK,China Investment Fund Company Limited,HKG,Hong Kong,Asset Management,422
 VTNMF,VIETNAM M & E PROCES,PNK,USA,,0
 AEGG,"The American Energy Group, Ltd.",PNK,USA,Oil & Gas Drilling & Exploration,123
@@ -3130,7 +3130,7 @@ SMU.F,SAMCO,FRA,Germany,,0
 GBA.AX,Grandbridge Limited,ASX,Australia,Conglomerates,210
 BEI.DE,Beiersdorf AG,GER,Germany,Personal Products,323
 OLI.MI,Olidata SpA,MIL,Italy,Computer Based Systems,812
-CREIY,CR2 Empreendimentos Imobili‡rios S.A.,PNK,USA,,0
+CREIY,CR2 Empreendimentos Imobiliàrios S.A.,PNK,USA,,0
 SKBI,Skystar Bio Pharmaceutical Company,NCM,Australia,Drug Manufacturers - Major,510
 CID.BE,CEMIG SP ADR,BER,Germany,Diversified Utilities,913
 MAWHY,Man Wah Holdings Ltd,PNK,USA,,0
@@ -3284,7 +3284,7 @@ RPXC,RPX Corporation,NMS,USA,Business Services,760
 RPPG,Reraise Gaming Corporation,OBB,USA,,0
 SEYKM.IS,Seyitler Kimya Sanayi A.S.,IST,Turkey,,0
 ZUCR.MI,Vincenzo Zucchi SpA,MIL,Italy,Textile Industrial,628
-TKHVF,TŸrk Hava Yollari Anonim Ortakligi,PNK,USA,,0
+TKHVF,TÙrk Hava Yollari Anonim Ortakligi,PNK,USA,,0
 ZHULF,ZHULIAN CORPORATION,PNK,USA,,0
 VAL.L,ValiRx plc,LSE,UK,Biotechnology,515
 XNC2O.BA,,BUE,Argentina,,0
@@ -3926,7 +3926,7 @@ DGS.L,Digital Globe Services Inc.,LSE,UK,Internet Information Providers,851
 EMCF,Emclaire Financial Corp.,NCM,Australia,Regional - Northeast Banks,411
 ROB.V,Red Hut Metals Inc.,VAN,Canada,Industrial Metals & Minerals,133
 DOROQ,Doral Financial Corporation,PNK,USA,,0
-EDRVF,EDP Renov‡veis S.A.,PNK,USA,,0
+EDRVF,EDP Renovàveis S.A.,PNK,USA,,0
 QSLRF,QSOLAR Limited,PNK,USA,,0
 SUTNY,"Sumitomo Mitsui Trust Holdings, Inc.",PNK,USA,,0
 1875661.F,BCP FIN PERP NCNVP,FRA,Germany,,0
@@ -3967,7 +3967,7 @@ EQGP,"EQT GP Holdings, LP",NYQ,USA,Major Integrated Oil & Gas,120
 TR1.DU,T ROWE PRICE GRP,DUS,Germany,Asset Management,422
 ZVB.BE,ZIGNAGO VETRO,BER,Germany,Packaging & Containers,325
 JPSWF,"The Japan Steel Works, Ltd.",PNK,USA,,0
-GOLN.MX,GOL Linhas AÌ©reas Inteligentes S.A.,MEX,Mexico,Major Airlines,770
+GOLN.MX,GOL Linhas Aí©reas Inteligentes S.A.,MEX,Mexico,Major Airlines,770
 LABB.MX,Genomma Lab Internacional SAB de CV,MEX,Mexico,Drugs - Generic,512
 AMRN,Amarin Corporation plc,NGM,Sweden,Drug Manufacturers - Other,511
 NMR,"Nomura Holdings, Inc.",NYQ,USA,Investment Brokerage - National,420
@@ -4101,7 +4101,7 @@ MTB-WT,M&T; BANK CORPORATION WARRANTS ,NYQ,USA,,0
 HWAY,Healthways Inc.,NMS,USA,Specialized Health Services,528
 PZ6.F,POZEN,FRA,Germany,Drugs - Generic,512
 ERF.TO,Enerplus Corporation,TOR,Canada,Independent Oil & Gas,121
-GRPOF,GrowProsÊCannabisÊVenturesÊInc.,PNK,USA,,0
+GRPOF,GrowProsæCannabisæVenturesæInc.,PNK,USA,,0
 KDX.TO,Klondex Mines Ltd.,TOR,Canada,Industrial Metals & Minerals,133
 OVR.AX,Overland Resources Limited,ASX,Australia,Industrial Metals & Minerals,133
 FMPI.L,F&C; Managed Portfolio Income Ord,LSE,UK,,0
@@ -4146,7 +4146,7 @@ SOPW,"Solar Power, Inc.",PNK,USA,Semiconductor Equipment & Materials,834
 F9D.SI,Boustead Singapore Limited,SES,Singapore,Oil & Gas Equipment & Services,124
 CYVA,Cyberspace Vita Inc.,PNK,USA,,0
 ASCK,Auscrete Corporation,OBB,USA,Residential Construction,630
-MAERSK-B.CO,A.P. M¿ller - M_rsk A/S,CPH,Denmark,,0
+MAERSK-B.CO,A.P. MÀller - M_rsk A/S,CPH,Denmark,,0
 TVLF,Tennessee Valley Financial Holdings Inc.,PNK,USA,,0
 PAA.AX,PharmAust Limited,ASX,Australia,Medical Laboratories & Research,525
 PRO,"PROS Holdings, Inc.",NYQ,USA,Application Software,821
@@ -4228,7 +4228,7 @@ EMO,ClearBridge Energy MLP Opportunity Fund Inc.,NYQ,USA,,0
 ZCT1.MU,ZIMTU CAPITAL,MUN,Germany,Asset Management,422
 ABW.DU,ASAHI GROUP HD,DUS,Germany,Beverages - Brewers,346
 CBOB.SG,CELSION,STU,Germany,,0
-CYRE3.SA,Cyrela Brazil Realty S.A. Empreendimentos e Participaç›es,SAO,Brazil,,0
+CYRE3.SA,Cyrela Brazil Realty S.A. Empreendimentos e Participaç_es,SAO,Brazil,,0
 AGRUF,AF Gruppen ASA,PNK,USA,,0
 OPM.TO,Opta Minerals Inc.,TOR,Canada,Industrial Metals & Minerals,133
 500003.KS,Shinhan Inverse WTI Futures ETN,KSC,Korea,,0
@@ -4321,7 +4321,7 @@ RMBS,Rambus Inc.,NMS,USA,Semiconductor- Memory Chips,831
 SFTBY,SoftBank Group Corp.,PNK,USA,,0
 X-H.V,"BNP RESOURCES INC., CL.A",VAN,Canada,,0
 KRX.SG,Kingspan Group plc,STU,Germany,,0
-FINAMEXO.MX,Casa de Bolsa Finamex Sociedad An—nima Burs‡til de Capital Variable,MEX,Mexico,Investment Brokerage - National,420
+FINAMEXO.MX,Casa de Bolsa Finamex Sociedad AnÑnima Bursàtil de Capital Variable,MEX,Mexico,Investment Brokerage - National,420
 3333.HK,Evergrande Real Estate Group Limited,HKG,Hong Kong,Real Estate Development,449
 R2:CVCB3S.SA,CVC BRASIL OP AG V,SAO,Brazil,,0
 SIOCF,Sierra Iron Ore Corp.,PNK,USA,,0
@@ -4441,7 +4441,7 @@ YWRLF,Athabasca Nuclear Corp.,PNK,USA,,0
 FGP,Ferrellgas Partners LP,NYQ,USA,Oil & Gas Refining & Marketing,122
 WSAQOA-A,WEST AREAS EXPIRING,ASX,Australia,,0
 MAGS,Magal Security Systems Ltd.,NGM,Sweden,Security & Protection Services,765
-VIV,Telef™nica Brasil S.A.,NYQ,USA,Wireless Communications,840
+VIV,Telefªnica Brasil S.A.,NYQ,USA,Wireless Communications,840
 SMFTF,Smurfit Kappa Group plc,PNK,USA,,0
 ZINC,Horsehead Holding Corp.,NMS,USA,Industrial Metals & Minerals,133
 NANX,Nanophase Technologies Corp.,PNK,USA,Chemicals - Major Diversified,110
@@ -5255,7 +5255,7 @@ GXSC.SG,"Yosen Group, Inc.",STU,Germany,,0
 PPM.V,"Pacific Imperial Mines, Inc.",VAN,Canada,Gold,134
 QNCD.QA,Qatar National Cement Company (Q.S.C.),DOH,Qatar,,0
 YBRHF,Yellow Brick Road Holdings Limited,PNK,USA,,0
-LLIS3.SA,"Restoque ComÌ©rcio e ConfecÌ_Ìµes de Roupas S.A.",SAO,Brazil,,0
+LLIS3.SA,"Restoque Comí©rcio e Confecí_íµes de Roupas S.A.",SAO,Brazil,,0
 SON1.HM,SONY,HAM,Germany,,0
 ARO.AX,Astro Resources NL,ASX,Australia,Industrial Metals & Minerals,133
 IGQ5.BE,3i Ord,BER,Germany,,0
@@ -5330,7 +5330,7 @@ V1SF.EX,ARKEMA,EUX,Germany,,0
 SIELY,Shanghai Electric Group Company Limited,PNK,USA,,0
 ZYT.BE,NEVADA COPPER,BER,Germany,Copper,131
 OPAY.L,PAYSAFE GROUP,LSE,UK,,0
-MMXM3.SA,MMX Mineraç‹o e Met‡licos S.A.,SAO,Brazil,Industrial Metals & Minerals,133
+MMXM3.SA,MMX MineraçÜo e Metàlicos S.A.,SAO,Brazil,Industrial Metals & Minerals,133
 YGR.TO,Yangarra Resources Ltd.,TOR,Canada,,0
 ANAV,"Alpha Network Alliance Ventures, Inc.",OBB,USA,Internet Information Providers,851
 ANCA.SG,ANA HD,STU,Germany,Major Airlines,770
@@ -5706,7 +5706,7 @@ PGNRF,Pan Global Resources Inc.,PNK,USA,,0
 OXUSF,Oxus Gold plc,PNK,USA,,0
 NZO.NZ,New Zealand Oil & Gas Limited,NZE,New Zealand,Independent Oil & Gas,121
 CCTC,"Clean Coal Technologies, Inc.",PNK,USA,,0
-CESDY,CESP - Companhia Energ_tica de S‹o Paulo,PNK,USA,,0
+CESDY,CESP - Companhia Energ_tica de SÜo Paulo,PNK,USA,,0
 7084@OM.KL,QL RESOURCES BHD,KLS,Malaysia,,0
 CNBKA,Century Bancorp Inc.,NMS,USA,Regional - Northeast Banks,411
 SITS,Southern ITS International Inc.,PNK,USA,,0
@@ -5834,7 +5834,7 @@ VMC.BE,VULCAN MATERIALS,BER,Germany,General Building Materials,634
 EIP,Eaton Vance Pennsylvania Municipal Bond Fund,ASE,USA,,0
 NETYF,NETWORK EXPL LTD,PNK,USA,,0
 RGDX,"Response Genetics, Inc",NCM,Australia,,0
-GRLV11.SA,CSHG GR Louveira - Fundo De Investimento Imobili‡rio - FII,SAO,Brazil,,0
+GRLV11.SA,CSHG GR Louveira - Fundo De Investimento Imobiliàrio - FII,SAO,Brazil,,0
 ORICON.BO,Oricon Enterprises Limited,BSE,India,,0
 NZERF,New Zealand Energy Corporation,PNK,USA,,0
 9943.TW,"Holiday Entertainment Co.,Ltd.",TAI,Taiwan,Entertainment - Diversified,722
@@ -5848,7 +5848,7 @@ XTD.TO,TDb Split Corp.,TOR,Canada,,0
 TYL,"Tyler Technologies, Inc.",NYQ,USA,Technical & System Software,822
 SENZ,"Sport Endurance, Inc.",PNK,USA,Beverages - Soft Drinks,348
 BSCA,Bank of Santa Clarita,PNK,USA,Regional - Pacific Banks,416
-CRESY,"Cresud Sociedad An—nima Comercial, Inmobiliaria, Financiera y Agropecuaria",NMS,USA,,0
+CRESY,"Cresud Sociedad AnÑnima Comercial, Inmobiliaria, Financiera y Agropecuaria",NMS,USA,,0
 JECC.JK,JEMBO CABLE IDR500,JKT,Indonesia,,0
 HTBX,"Heat Biologics, Inc.",NCM,Australia,Biotechnology,515
 E-PY.TO,BCE INC SER Y PR,TOR,Canada,,0
@@ -5860,7 +5860,7 @@ WCI.MU,RIGAS ELEKTROMAS ,MUN,Germany,,0
 BJWTF,Beijing Enterprises Water Group Limited,PNK,USA,,0
 SACRF,SA CORPORATE REAL ES,PNK,USA,,0
 FSNUY,Fresenius SE & Co KGaA,PNK,USA,,0
-CESP6.SA,CESP - Companhia Energ_tica de S‹o Paulo,SAO,Brazil,,0
+CESP6.SA,CESP - Companhia Energ_tica de SÜo Paulo,SAO,Brazil,,0
 QACL.HM,4.75 BARCLAYS NCCP,HAM,Germany,,0
 VRG-B.ST,Venue Retail Group AB,STO,Sweden,Apparel Stores,730
 QFSP.BE,QUANTUM FUEL SYS,BER,Germany,,0
@@ -5899,7 +5899,7 @@ MTSTD,"MetaStat, Inc.",PNK,USA,,0
 CUP.F,CHUGAI PHARM,FRA,Germany,Drug Manufacturers - Major,510
 SCBH,Seacoast Commerce Banc Holdings,PNK,USA,,0
 B2K.BE,BELL EQUIPMENT,BER,Germany,Farm & Construction Machinery,620
-TRKNF,TŸrk TelekomŸnikasyon A.S.,PNK,USA,,0
+TRKNF,TÙrk TelekomÙnikasyon A.S.,PNK,USA,,0
 WD5.MU,WYNDHAM WORLDWIDE,MUN,Germany,Lodging,710
 07W.BE,WMIH,BER,Germany,,0
 HIL,"Hill International, Inc.",NYQ,USA,Management Services,769
@@ -6706,7 +6706,7 @@ AGIO,"Agios Pharmaceuticals, Inc.",NMS,USA,Biotechnology,515
 UCOBANK.NS,UCO Bank,NSI,India,Money Center Banks,410
 004540.KS,"KleanNara Co., Ltd.",KSC,Korea,,0
 BWMTF,BlackRock World Mining Trust plc,PNK,USA,,0
-BPXXY,"Banca popolare dell'Emilia Romagna, Societˆ cooperativa.",PNK,USA,,0
+BPXXY,"Banca popolare dell'Emilia Romagna, Societö cooperativa.",PNK,USA,,0
 KYR.MU,KYOCERA,MUN,Germany,Electronic Equipment,314
 CJES,"C&J; Energy Services, Ltd.",NYQ,USA,Oil & Gas Equipment & Services,124
 PKSGF,Parkson Retail Group Limited,PNK,USA,,0
@@ -6924,7 +6924,7 @@ GFS.L,G4S plc,LSE,UK,Security & Protection Services,765
 CUI,"CUI Global, Inc.",NCM,Australia,Industrial Electrical Equipment,627
 PCM,PCM Fund Inc.,NYQ,USA,,0
 JEN-H.V,THE JENEX CORPORATION,VAN,Canada,,0
-NBG6.DE,"N†RNBERGER Beteiligungs-Aktiengesellschaft",GER,Germany,Accident & Health Insurance,431
+NBG6.DE,"N RNBERGER Beteiligungs-Aktiengesellschaft",GER,Germany,Accident & Health Insurance,431
 NQL1.MU,BIDVEST,MUN,Germany,,0
 SYR-H.V,Sky Ridge Resources Ltd.,VAN,Canada,Computer Based Systems,812
 MWGT.L,Miton Worldwide Growth Ord,LSE,UK,,0
@@ -7199,7 +7199,7 @@ NZOZ.NZ,New Zealand Oil & Gas Limited O,NZE,New Zealand,,0
 6808.HK,Sun Art Retail Group Limited,HKG,Hong Kong,,0
 ALBKY,Alpha Bank A.E.,PNK,USA,,0
 717141.TWO,YUANTA SECURITIES C/W 28/07/15(,TWO,Taiwan,,0
-QGEP3.SA,QGEP Participaç›es S.A.,SAO,Brazil,,0
+QGEP3.SA,QGEP Participaç_es S.A.,SAO,Brazil,,0
 GOV,Government Properties Income Trust,NYQ,USA,,0
 CWBK,"Commerce West Bank, N.A.",OBB,USA,Regional - Pacific Banks,416
 BKEP,"Blueknight Energy Partners, L.P.",NGM,Sweden,Oil & Gas Pipelines,125
@@ -7277,7 +7277,7 @@ ZV.MI,Zignago Vetro S.p.A.,MIL,Italy,Packaging & Containers,325
 JCO.V,Jericho Oil Corporation,VAN,Canada,,0
 8171.HK,China Trends Holdings Limited.,HKG,Hong Kong,Communication Equipment,841
 032288.TW,YUANTA SECURITIES,TAI,Taiwan,,0
-TBORG.IS,TŸrk Tuborg Bira ve Malt Sanayii A.S.,IST,Turkey,,0
+TBORG.IS,TÙrk Tuborg Bira ve Malt Sanayii A.S.,IST,Turkey,,0
 MYT.AX,Mighty River Power Limited,ASX,Australia,Diversified Utilities,913
 SFSN.SW,SFS GROUP N,EBS,Austria,,0
 1888.HK,"Kingboard Laminates Holdings, Ltd.",HKG,Hong Kong,Electronic Equipment,314
@@ -7537,7 +7537,7 @@ VPO.BK,Vichitbhan Palm Oil Public Company Limited,SET,Thailand,,0
 AOMFF,Alstom SA,PNK,USA,,0
 YUVINTL.BO,YUVRAJ INTERNATIONAL LTD.,BSE,India,,0
 JUTHA-R.BK,Jutha Maritime Public Company Limited,SET,Thailand,,0
-SAPR3.SA,Companhia de Saneamento do ParanÌÁ - SANEPAR,SAO,Brazil,,0
+SAPR3.SA,Companhia de Saneamento do Paraníç - SANEPAR,SAO,Brazil,,0
 VAS.HM,VOESTALPINE,HAM,Germany,,0
 UPL,Ultra Petroleum Corp.,NYQ,USA,Independent Oil & Gas,121
 SGM.HM,STMICROELECTRONICS ,HAM,Germany,,0
@@ -7657,7 +7657,7 @@ KWHIY,Kawasaki Heavy Industries Ltd.,PNK,USA,,0
 MEET,"MeetMe, Inc.",NCM,Australia,Internet Information Providers,851
 SWL.L,Swallowfield plc,LSE,UK,Personal Products,323
 WR1.F,W.R.BERKLEY,FRA,Germany,Property & Casualty Insurance,432
-ELPL4.SA,Eletropaulo Metropolitana Eletricidade de S‹o Paulo S.A.,SAO,Brazil,,0
+ELPL4.SA,Eletropaulo Metropolitana Eletricidade de SÜo Paulo S.A.,SAO,Brazil,,0
 BYD,Boyd Gaming Corporation,NYQ,USA,Resorts & Casinos,711
 ASAE,"ASAP Expo, Inc.",PNK,USA,Business Services,760
 ISIG,Insignia Systems Inc.,NCM,Australia,Marketing Services,721
@@ -7968,7 +7968,7 @@ IYPHF,IL YANG PHARM,PNK,USA,,0
 XP31.F,GR WASTE IT,FRA,Germany,,0
 MERR,"Merriman Holdings, Inc.",PNK,USA,Asset Management,422
 TY,Tri-Continental Corporation,NYQ,USA,,0
-RQI,"CohenÊ& Steers Quality Income Realty Fund, Inc.",NYQ,USA,,0
+RQI,"Cohenæ& Steers Quality Income Realty Fund, Inc.",NYQ,USA,,0
 R2:YPFL3S.SA,YPF SA,SAO,Brazil,,0
 CL.SW,COLGATE-PALMOLIVE,EBS,Austria,,0
 GPIC,Gaming Partners International Corporation,NGM,Sweden,Gaming Activities,714
@@ -8024,7 +8024,7 @@ PNB.NS,Punjab National Bank,NSI,India,Money Center Banks,410
 QRL.BE,AURIZON HLDGS,BER,Germany,,0
 03068X.TW,YUANTA SECURITIES C/W 17/06/16(,TAI,Taiwan,,0
 VIVIMEDLA.NS,Vivimed Labs Limited,NSI,India,Business Services,760
-LPSB3.SA,LPS Brasil - Consultoria de Im—veis S.A.,SAO,Brazil,,0
+LPSB3.SA,LPS Brasil - Consultoria de ImÑveis S.A.,SAO,Brazil,,0
 0639.HK,Shougang Fushan Resources Group Limited,HKG,Hong Kong,Industrial Metals & Minerals,133
 VIG.VI,VIENNA INSURANCE GR,VIE,Austria,,0
 2233.HK,West China Cement Limited,HKG,Hong Kong,General Building Materials,634
@@ -8054,7 +8054,7 @@ ZTE.V,ZTEST Electronics Inc.,VAN,Canada,Printed Circuit Boards,835
 SSY,SunLink Health Systems Inc.,ASE,USA,Hospitals,524
 CBI,Chicago Bridge & Iron Company N.V.,NYQ,USA,General Contractors,636
 EOPT,"Eos Petro, Inc.",OBB,USA,Independent Oil & Gas,121
-LOGN3.SA,Log-In Log’stica Intermodal S.A.,SAO,Brazil,,0
+LOGN3.SA,Log-In LogÕstica Intermodal S.A.,SAO,Brazil,,0
 IFON,Infosonics Corp.,NCM,Australia,Communication Equipment,841
 URE.TO,UR-Energy Inc.,TOR,Canada,Industrial Metals & Minerals,133
 SVI.L,SVG Capital Plc,LSE,UK,Asset Management,422
@@ -8068,7 +8068,7 @@ RB.L,Reckitt Benckiser Group plc,LSE,UK,Personal Products,323
 TCRD,"THL Credit, Inc.",NMS,USA,,0
 MXF,"The Mexico Fund, Inc.",NYQ,USA,,0
 MLSS,Milestone Scientific Inc.,ASE,USA,Medical Instruments & Supplies,520
-NETAS.IS,Netas TelekomŸnikasyon A.S.,IST,Turkey,,0
+NETAS.IS,Netas TelekomÙnikasyon A.S.,IST,Turkey,,0
 SHBI,"Shore Bancshares, Inc.",NMS,USA,Regional - Mid-Atlantic Banks,412
 GUZ.F,YUEXIU PROPERTY,FRA,Germany,Real Estate Development,449
 PP9.F,PPL,FRA,Germany,Electric Utilities,911
@@ -8215,7 +8215,7 @@ MLCTF,MILLENNIUM & COPTHOR,PNK,USA,,0
 CRBP,"Corbus Pharmaceuticals Holdings, Inc.",NCM,Australia,Biotechnology,515
 WKCMF,Wacker Chemie AG,PNK,USA,,0
 2DJ.F,DYNAM JP HLDGS,FRA,Germany,,0
-TRN.MI,"TERNA - Rete Elettrica Nazionale Societˆ per Azioni",MIL,Italy,Electric Utilities,911
+TRN.MI,"TERNA - Rete Elettrica Nazionale Societö per Azioni",MIL,Italy,Electric Utilities,911
 NEVPF,NeuroVive Pharmaceutical AB,PNK,USA,,0
 ITE.OL,Itera ASA,OSL,Norway,Business Services,760
 TPG.CR,T.PALO GRAND,CCS,Venezuela,,0
@@ -8259,7 +8259,7 @@ CATO,The Cato Corporation,NYQ,USA,Apparel Stores,730
 DFT-PA,DuPont Fabros Technology Inc CU,NYQ,USA,,0
 VNOM,Viper Energy Partners LP,NMS,USA,Independent Oil & Gas,121
 JJO.MU,JJ AUTO,MUN,Germany,,0
-TEFN.MX,"Telef—nica, S.A.",MEX,Mexico,Wireless Communications,840
+TEFN.MX,"TelefÑnica, S.A.",MEX,Mexico,Wireless Communications,840
 PPMHD,"Platinum Parimutuel Holdings, Inc.",PNK,USA,,0
 AVD,American Vanguard Corp.,NYQ,USA,Agricultural Chemicals,112
 P5Y.SG,BRF SP ADR,STU,Germany,Food - Major Diversified,340
@@ -8394,7 +8394,7 @@ TZL1.SG,TELKOM SA SOC,STU,Germany,Wireless Communications,840
 YG11.F,YNGL GRN EN SP ADR,FRA,Germany,Diversified Utilities,913
 VRTU,Virtusa Corporation,NMS,USA,Information Technology Services,824
 2348.HK,Dawnrays Pharmaceutical Holdings Ltd.,HKG,Hong Kong,Drug Manufacturers - Major,510
-MUV2.DE,MŸnchener RŸckversicherungs-Gesellschaft Aktiengesellschaft,GER,Germany,Property & Casualty Insurance,432
+MUV2.DE,MÙnchener RÙckversicherungs-Gesellschaft Aktiengesellschaft,GER,Germany,Property & Casualty Insurance,432
 FCAP,First Capital Inc.,NCM,Australia,Savings & Loans,419
 AKT-A.TO,AKITA Drilling Ltd.,TOR,Canada,Oil & Gas Drilling & Exploration,123
 NRVTF,NORAM VENTURES,PNK,USA,,0
@@ -8595,7 +8595,7 @@ WHELF,Salt Lake Potash Limited,PNK,USA,,0
 SOCA.HM,SUBSEA 7 SP ADR,HAM,Germany,,0
 NSANY,Nissan Motor Co. Ltd.,PNK,USA,,0
 MYSN,"Myson Group, Inc.",PNK,USA,,0
-OJBA.CO,¯stjydsk Bank A/S,CPH,Denmark,Money Center Banks,410
+OJBA.CO,østjydsk Bank A/S,CPH,Denmark,Money Center Banks,410
 CQH,"Cheniere Energy Partners LP Holdings, LLC",ASE,USA,Oil & Gas Pipelines,125
 KLMSN.IS,Klimasan Klima Sanayi ve Ticaret Anonim Sirketi,IST,Turkey,,0
 YTR.BE,AURELIA METALS,BER,Germany,Industrial Metals & Minerals,133
@@ -9065,7 +9065,7 @@ WKP.L,Workspace Group plc,LSE,UK,REIT - Diversified,440
 NMNB,New Millennium Bank,PNK,USA,,0
 USO.V,US Oil Sands Inc.,VAN,Canada,Independent Oil & Gas,121
 TNRK,TNR Technical Inc.,PNK,USA,,0
-MC.PA,LVMH Mo‘t Hennessy Louis Vuitton SA,PAR,France,Jewelry Stores,742
+MC.PA,LVMH MoÔt Hennessy Louis Vuitton SA,PAR,France,Jewelry Stores,742
 KLI1.DU,KAWASAKI KISEN,DUS,Germany,Shipping,775
 DGWIY,Duoyuan Global Water Inc.,PNK,USA,,0
 CNCO,Cencosud S.A.,NYQ,USA,"Specialty Retail, Other",745
@@ -9584,7 +9584,7 @@ DDD.MX,3D SYSTEMS,MEX,Mexico,,0
 CII,"BlackRock Enhanced Capital and Income Fund, Inc.",NYQ,USA,,0
 KWG.DU,KHD HUMBOLDT WEDAG,DUS,Germany,Industrial Equipment Wholesale,752
 QFP.SG,MONTEZUMA MINING,STU,Germany,Industrial Metals & Minerals,133
-RGEDF,Richter Gedeon Vegy_szeti Gy‡r Nyilv‡nosan Muk_do Rt.,PNK,USA,,0
+RGEDF,Richter Gedeon Vegy_szeti Gyàr Nyilvànosan Muk_do Rt.,PNK,USA,,0
 CBA.DE,Brilliance China Automotive Holdings Ltd.,GER,Germany,Auto Manufacturers - Major,330
 KIBO.L,Kibo Mining Plc,LSE,UK,Gold,134
 DDDD.L,4D pharma plc,LSE,UK,Biotechnology,515
@@ -9876,7 +9876,7 @@ TNT-UN.TO,TRUE NORTH COMMERCIAL REIT,TOR,Canada,,0
 BMTC,Bryn Mawr Bank Corp.,NMS,USA,Regional - Mid-Atlantic Banks,412
 YNKUF,YONKYU CO LTD,PNK,USA,,0
 NXPI,NXP Semiconductors NV,NMS,USA,Semiconductor - Broad Line,830
-Z1L.DE,Ler¿y Seafood Group Asa,GER,Germany,Food - Major Diversified,340
+Z1L.DE,LerÀy Seafood Group Asa,GER,Germany,Food - Major Diversified,340
 THLEY,Thales SA,PNK,USA,,0
 MWSNF,Mawson Resources Ltd.,PNK,USA,,0
 FO.V,Falcon Oil & Gas Ltd.,VAN,Canada,Independent Oil & Gas,121
@@ -10029,7 +10029,7 @@ CIR.MI,Compagnie Industriali Riunite S.p.A.,MIL,Italy,Diversified Utilities,913
 CIBG,Cibolan Gold Corp.,PNK,USA,,0
 2637.TW,"Wisdom Marine Lines Co., Limited",TAI,Taiwan,,0
 WCN.AX,White Cliff Minerals Limited,ASX,Australia,Gold,134
-ITUB4.SA,Itaœ Unibanco Holding S.A.,SAO,Brazil,Money Center Banks,410
+ITUB4.SA,ItaÏ Unibanco Holding S.A.,SAO,Brazil,Money Center Banks,410
 KUTV,"Ku6 Media Co., Ltd.",NGM,Sweden,Entertainment - Diversified,722
 GALOF,Galore Resources Inc.,PNK,USA,,0
 1182-OL.HK,C Y FOUNDATION,HKG,Hong Kong,,0
@@ -10583,9 +10583,9 @@ NZE.F,ZEON ,FRA,Germany,Rubber & Plastics,322
 WST.V,Westridge Resources Inc.,VAN,Canada,Industrial Metals & Minerals,133
 O1BC.SW,XING N,EBS,Austria,,0
 EXNT,Enxnet Inc.,PNK,USA,Application Software,821
-QLCLF,"Qu‡litas Controladora, S.A.B. de C.V.",PNK,USA,,0
+QLCLF,"Quàlitas Controladora, S.A.B. de C.V.",PNK,USA,,0
 TCB-PB,TCF Financial Corporation Del D,NYQ,USA,,0
-SDNVY,"Siderœrgica Venezolana SIVENSA SA",PNK,USA,,0
+SDNVY,"SiderÏrgica Venezolana SIVENSA SA",PNK,USA,,0
 PFG-PB,"Principal Financial Group, Inc.",NYQ,USA,,0
 TLIF,"TOCCA Life Holdings, Inc.",PNK,USA,,0
 ZJS1.F,JINKOSOLAR SP ADR,FRA,Germany,Diversified Utilities,913
@@ -10679,7 +10679,7 @@ DRA-UN.TO,DREAM HARD ASSET ALTERNATIVES T,TOR,Canada,,0
 SCRPF,Sembcorp Industries Ltd,PNK,USA,,0
 7176OR.KL,TPC PLUS BERHAD - ORDINARY RIGH,KLS,Malaysia,,0
 NFBK,"Northfield Bancorp, Inc. (Staten Island, NY)",NMS,USA,Regional - Northeast Banks,411
-GEDSF,Richter Gedeon Vegy_szeti Gy‡r Nyilv‡nosan Muk_do Rt.,PNK,USA,,0
+GEDSF,Richter Gedeon Vegy_szeti Gyàr Nyilvànosan Muk_do Rt.,PNK,USA,,0
 SNSY6.SA,SANSUY      PNB,SAO,Brazil,,0
 KAKU.L,Kakuzi Ltd.,LSE,UK,Farm Products,341
 YRLLF,Alta Vista Ventures Ltd.,PNK,USA,,0
@@ -10827,7 +10827,7 @@ IDKOY,Idemitsu Kosan Co. Ltd.,PNK,USA,,0
 TRCO,Tribune Media Company,NYQ,USA,Broadcasting - TV,723
 HRBK,Harbor Bankshares Corporation,PNK,USA,,0
 NSU.TO,Nevsun Resources Ltd.,TOR,Canada,Copper,131
-MNBA.CO,"M¿ns Bank A/S",CPH,Denmark,Money Center Banks,410
+MNBA.CO,"MÀns Bank A/S",CPH,Denmark,Money Center Banks,410
 GDLM,Golden Century Resources Ltd.,PNK,USA,,0
 AGYO.IS,Atakule Gayrimenkul Yatirim Ortakligi A.S.,IST,Turkey,,0
 BVGIF,Homestake Resource Corp.,PNK,USA,,0
@@ -10943,7 +10943,7 @@ EVAR,"Lombard Medical, Inc.",NGM,Sweden,Medical Appliances & Equipment,521
 2678.HK,Texhong Textile Group Ltd.,HKG,Hong Kong,Textile Industrial,628
 GPG.L,Coats Group plc,LSE,UK,Conglomerates,210
 FUBP,First ULB Corp.,PNK,USA,,0
-HK,"Halc—n Resources Corporation",NYQ,USA,Oil & Gas Drilling & Exploration,123
+HK,"HalcÑn Resources Corporation",NYQ,USA,Oil & Gas Drilling & Exploration,123
 FL,"Foot Locker, Inc.",NYQ,USA,Textile - Apparel Footwear & Accessories,321
 3090-OL.HK,X XIE KOREA,HKG,Hong Kong,,0
 CGI,Celadon Group Inc.,NYQ,USA,Trucking,774
@@ -11188,7 +11188,7 @@ DSL,DoubleLine Income Solutions Fund,NYQ,USA,,0
 ZAS.MU,ASSURANT,MUN,Germany,Property & Casualty Insurance,432
 ASOLF,Ascot Resources Ltd.,PNK,USA,,0
 SKC.AX,Sky City Entertainment Group Ltd.,ASX,Australia,Resorts & Casinos,711
-TEF,"Telef—nica, S.A.",NYQ,USA,Telecom Services - Foreign,845
+TEF,"TelefÑnica, S.A.",NYQ,USA,Telecom Services - Foreign,845
 ROSE,"Rosetta Resources, Inc.",NMS,USA,,0
 WF9.BE,WORLEYPARSONS,BER,Germany,Oil & Gas Equipment & Services,124
 500016.KS,Shinhan Gold Futures ETN(H),KSC,Korea,,0
@@ -11777,7 +11777,7 @@ I93.BE,INDORAMA VEN -F-,BER,Germany,Chemicals - Major Diversified,110
 VGZ.TO,Vista Gold Corp.,TOR,Canada,Gold,134
 AGX.V,Amador Gold Corp.,VAN,Canada,Industrial Metals & Minerals,133
 DPLM.L,Diploma PLC,LSE,UK,Industrial Equipment Wholesale,752
-O2D.DE,Telef—nica Deutschland Holding AG,GER,Germany,Wireless Communications,840
+O2D.DE,TelefÑnica Deutschland Holding AG,GER,Germany,Wireless Communications,840
 IY5.F,ISTYLE INC,FRA,Germany,,0
 WPRFF,WHITE PINE RESOURCES,PNK,USA,,0
 FASDF,Fantasy Aces Daily Fantasy Sports Corp.,PNK,USA,,0
@@ -11796,7 +11796,7 @@ VKA.AX,Viking Mines Limited,ASX,Australia,Gold,134
 3673.TW,"TPK Holding Co., Ltd.",TAI,Taiwan,Diversified Electronics,836
 AWD.AX,Aleator Energy Limited,ASX,Australia,Oil & Gas Drilling & Exploration,123
 NLE.BE,NIMBLE STORAGE,BER,Germany,,0
-BOLYY,"Bolsas y Mercados Espa–oles, Sociedad Holding de Mercados y Sistemas Financieros, S.A.",PNK,USA,,0
+BOLYY,"Bolsas y Mercados Espa_oles, Sociedad Holding de Mercados y Sistemas Financieros, S.A.",PNK,USA,,0
 OPO.MU,OPCON,MUN,Germany,,0
 TTRHF,Terra Energy Corp.,PNK,USA,,0
 33L.BE,LULULEMON ATHL,BER,Germany,Apparel Stores,730
@@ -11953,7 +11953,7 @@ RI.PA,Pernod-Ricard SA,PAR,France,Beverages - Wineries & Distillers,347
 MCB.TO,McCoy Global Inc.,TOR,Canada,Oil & Gas Equipment & Services,124
 XSK.F,SANKEN ELECTRIC,FRA,Germany,Semiconductor - Broad Line,830
 LGND,Ligand Pharmaceuticals Incorporated,NGM,Sweden,Biotechnology,515
-USIM5.SA,Usinas Siderœrgicas de Minas Gerais S.A.,SAO,Brazil,,0
+USIM5.SA,Usinas SiderÏrgicas de Minas Gerais S.A.,SAO,Brazil,,0
 NNDIF,NORANDA INCOME FUND,PNK,USA,,0
 0375-OL.HK,YGM TRADING,HKG,Hong Kong,,0
 WCAGY,WIRECARD AG,PNK,USA,,0
@@ -12077,7 +12077,7 @@ TVNB,The Turbotville National Bank,PNK,USA,,0
 FSBS,"First South Bancorp, Inc.",PNK,USA,,0
 SCR.SW,SCOR SE,EBS,Austria,,0
 QRNQRP-A,,ASX,Australia,,0
-JSRE11.SA,"JS Real Estate multigest‹o - FII fund",SAO,Brazil,,0
+JSRE11.SA,"JS Real Estate multigestÜo - FII fund",SAO,Brazil,,0
 GOF,Guggenheim Strategic Opportunities Fund,NYQ,USA,,0
 SFD.V,"NXT Energy Solutions, Inc.",VAN,Canada,Oil & Gas Equipment & Services,124
 MIDI.JK,MIDI UTAMA INDONES IDR100,JKT,Indonesia,,0
@@ -12169,7 +12169,7 @@ RBNDF,FERRUM AMERICAS MINI,PNK,USA,,0
 NUXFF,New Pacific Metals Corp.,PNK,USA,,0
 SVNWF,SEVEN GROUP HOLDINGS,PNK,USA,,0
 0086.KL,YGL CONVERGENCE BHD,KLS,Malaysia,,0
-ACSAY,"Actividades de Construcci—n y Servicios, S.A.",PNK,USA,,0
+ACSAY,"Actividades de ConstrucciÑn y Servicios, S.A.",PNK,USA,,0
 CMY.BE,ZIX,BER,Germany,Technical & System Software,822
 TGSU2.BA,Transportadora de Gas Del Sur S.A.,BUE,Argentina,Gas Utilities,912
 V7I.SG,VIMICRO INTL SP ADR,STU,Germany,,0
@@ -12447,7 +12447,7 @@ LFFE3.SA,Jereissati Telecom S.A.,SAO,Brazil,Wireless Communications,840
 NRN.BE,XCEL ENERGY ,BER,Germany,Electric Utilities,911
 IPRU8688.BO,ICICI PRUDENTIAL VALUE FUND SE,BSE,India,,0
 CTRN,"Citi Trends, Inc.",NMS,USA,Apparel Stores,730
-XPCM11.SA,XP Corporate Maca_ Fundo de Investimento Imobili‡rio - FII,SAO,Brazil,,0
+XPCM11.SA,XP Corporate Maca_ Fundo de Investimento Imobiliàrio - FII,SAO,Brazil,,0
 HMNY,Helios and Matheson Analytics Inc.,NCM,Australia,Information Technology Services,824
 DOVR,"Dover Saddlery, Inc.",NCM,Australia,,0
 RGU.L,Regus plc,LSE,UK,Business Services,760
@@ -12828,7 +12828,7 @@ NSL.AX,NSL Consolidated Limited,ASX,Australia,Steel & Iron,130
 GHY,"Prudential Global Short Duration High Yield Fund, Inc.",NYQ,USA,,0
 LMW.SG,XENOPORT,STU,Germany,,0
 GP3N.MU,CHINA SUNRG SP ADR,MUN,Germany,Diversified Utilities,913
-BBSE3.SA,BB Seguridade Participaç›es S/A,SAO,Brazil,,0
+BBSE3.SA,BB Seguridade Participaç_es S/A,SAO,Brazil,,0
 EWS.V,Environmental Waste International Inc.,VAN,Canada,Pollution & Treatment Controls,623
 VCH.MU,CHARLES VOEGELE,MUN,Germany,Apparel Stores,730
 NMXS,"Net Medical Xpress Solutions, Inc.",PNK,USA,,0
@@ -13332,7 +13332,7 @@ PNP.TO,Pinetree Capital Ltd.,TOR,Canada,Investment Brokerage - National,420
 HERB,YaSheng Group,PNK,USA,,0
 KOS,Kosmos Energy Ltd.,NYQ,USA,Independent Oil & Gas,121
 0PP.F,PORTOLA PHARMAC,FRA,Germany,,0
-CSNA3.SA,Companhia Siderœrgica Nacional,SAO,Brazil,,0
+CSNA3.SA,Companhia SiderÏrgica Nacional,SAO,Brazil,,0
 BINHF,Binhai Investment Company Limited,PNK,USA,,0
 BP,BP p.l.c.,NYQ,USA,Major Integrated Oil & Gas,120
 CTP,CTPartners Executive Search Inc.,ASE,USA,,0
@@ -13387,7 +13387,7 @@ PACE,Pace Holdings Corp.,NCM,Australia,,0
 2213-OL.HK,YI HUA HLDG,HKG,Hong Kong,,0
 LECO,Lincoln Electric Holdings Inc.,NMS,USA,Small Tools & Accessories,625
 CATI,Clone Algo Technologies Inc.,OBB,USA,Application Software,821
-FEMSAUBD.MX,"Fomento Econ—mico Mexicano, S.A.B de C.V",MEX,Mexico,Beverages - Soft Drinks,348
+FEMSAUBD.MX,"Fomento EconÑmico Mexicano, S.A.B de C.V",MEX,Mexico,Beverages - Soft Drinks,348
 49EA.BE,ENBRIDGE ENG PART-A,BER,Germany,Oil & Gas Pipelines,125
 DVT.V,Divestco Inc.,VAN,Canada,,0
 NZN.V,Nevada Zinc Corporation,VAN,Canada,,0
@@ -13531,7 +13531,7 @@ AEU-UN.TO,ACTIVEnergy Income Fund,TOR,Canada,,0
 AIA.AX,Auckland International Airport Limited,ASX,Australia,"Air Services, Other",772
 AQXP,Aquinox Pharmaceuticals Inc.,NGM,Sweden,Drugs - Generic,512
 HGR,"Hanger, Inc.",NYQ,USA,Specialized Health Services,528
-UCAS3.SA,Unicasa Indœstria de M—veis S.A.,SAO,Brazil,,0
+UCAS3.SA,Unicasa IndÏstria de MÑveis S.A.,SAO,Brazil,,0
 TIM.SG,ZEAL NET -NPV-,STU,Germany,Gaming Activities,714
 IU2.BE,YARA INTERNATIONAL,BER,Germany,Chemicals - Major Diversified,110
 HOGARB.MX,"Consorcio Hogar, S.A.B. de C.V.",MEX,Mexico,Residential Construction,630
@@ -13627,7 +13627,7 @@ BRK-A,Berkshire Hathaway Inc.,NYQ,USA,Property & Casualty Insurance,432
 OTC.AX,OTOC Limited,ASX,Australia,General Contractors,636
 SGN.AX,STW Communications Group Ltd.,ASX,Australia,Advertising Agencies,720
 YIT.SG,YIT,STU,Germany,General Contractors,636
-SID,Companhia Siderœrgica Nacional,NYQ,USA,Steel & Iron,130
+SID,Companhia SiderÏrgica Nacional,NYQ,USA,Steel & Iron,130
 FLS,Flowserve Corp.,NYQ,USA,Diversified Machinery,622
 MAXD,Max Sound Corporation,OBB,USA,,0
 XER.BE,XEROX CORP,BER,Germany,,0
@@ -14148,7 +14148,7 @@ CDON.ST,QLIRO GROUP,STO,Sweden,,0
 INDOY,Indorama Ventures Public Company Limited,PNK,USA,,0
 OHZ.BE,OMNIA HOLD,BER,Germany,Chemicals - Major Diversified,110
 OKE,ONEOK Inc.,NYQ,USA,Gas Utilities,912
-JFEN1.SA,Jo‹o Fortes Engenharia S.A.,SAO,Brazil,,0
+JFEN1.SA,JoÜo Fortes Engenharia S.A.,SAO,Brazil,,0
 BLE,BlackRock Municipal Income Trust II,ASE,USA,,0
 SSD,"Simpson Manufacturing Co., Inc.",NYQ,USA,Small Tools & Accessories,625
 APWC,Asia Pacific Wire & Cable Corp. Ltd.,NGM,Sweden,Industrial Electrical Equipment,627
@@ -14203,7 +14203,7 @@ YSM.MU,SKY-MOBI SP ADS,MUN,Germany,,0
 ZENITHBIR.BO,ZENITH BIRLA (INDIA) LTD.,BSE,India,,0
 KTN.V,Kootenay Silver Inc,VAN,Canada,Industrial Metals & Minerals,133
 GXY.AX,Galaxy Resources Limited,ASX,Australia,Industrial Metals & Minerals,133
-ITUBN.MX,Itaœ Unibanco Holding S.A.,MEX,Mexico,Money Center Banks,410
+ITUBN.MX,ItaÏ Unibanco Holding S.A.,MEX,Mexico,Money Center Banks,410
 HPQ,HP Inc.,NYQ,USA,Diversified Computer Systems,810
 YGB.F,EMPLOYERS HLDNGS,FRA,Germany,,0
 DOBUR.IS,Dogan Burda Dergi Yayincilik Ve Pazarlama AS,IST,Turkey,,0
@@ -14397,7 +14397,7 @@ WECFY,White Energy Company Limited,PNK,USA,,0
 009300.KQ,Sam-A Pharm. Co. Ltd,KOE,South Korea,,0
 BNBR.JK,BAKRIE & BROS LKD SHS(IDR5000&I;,JKT,Indonesia,,0
 FOMC.BE,FOMENTO ECONOM UTS,BER,Germany,,0
-PEL.MI,Banca Popolare dell'Etruria e del Lazio - SocietÌÊ Cooperativa,MIL,Italy,,0
+PEL.MI,Banca Popolare dell'Etruria e del Lazio - Societíæ Cooperativa,MIL,Italy,,0
 LUK.BE,LUKOIL SP ADR,BER,Germany,Major Integrated Oil & Gas,120
 TIGE,Tigrent Inc.,PNK,USA,Education & Training Services,766
 SAVP.L,Savannah Petroleum Plc,LSE,UK,Independent Oil & Gas,121
@@ -14777,7 +14777,7 @@ FBI100.NZ,FBI 15/03/17 7.50% Fletcher Bui,NZE,New Zealand,,0
 OIBR4F.SA,OI          PN      N1,SAO,Brazil,,0
 DJSP,"DJSP Enterprises, Inc.",PNK,USA,Business Services,760
 RTIX,RTI Surgical Inc.,NMS,USA,Medical Appliances & Equipment,521
-FIXX11.SA,Fator IFIX Fundo de Investimento Imobili‡rio - FII,SAO,Brazil,,0
+FIXX11.SA,Fator IFIX Fundo de Investimento Imobiliàrio - FII,SAO,Brazil,,0
 CHFFF,China Everbright International Ltd.,PNK,USA,,0
 PVH,PVH Corp.,NYQ,USA,Textile - Apparel Clothing,320
 QXP1.F,NORBORD,FRA,Germany,"Lumber, Wood Production",632
@@ -15087,7 +15087,7 @@ RRFIN.BO,RR Financial Consultants Limited,BSE,India,Investment Brokerage - Natio
 CHIF,China Food & Beverage Company,PNK,USA,,0
 MBII,"Marrone Bio Innovations, Inc.",NGM,Sweden,Agricultural Chemicals,112
 LCNB,LCNB Corp.,NCM,Australia,Regional - Mid-Atlantic Banks,412
-SIP.BR,"SociÌ©tÌ© Internationale de Plantations et de Finance",BRU,Belgium,Farm Products,341
+SIP.BR,"Socií©tí© Internationale de Plantations et de Finance",BRU,Belgium,Farm Products,341
 INNHF,Northair Silver Corp.,PNK,USA,,0
 CCIH,ChinaCache International Holdings Ltd.,NMS,USA,Internet Information Providers,851
 REX.V,Orex Minerals Inc.,VAN,Canada,Industrial Metals & Minerals,133
@@ -15245,7 +15245,7 @@ VERZ34.SA,Verizon Communications Inc.,SAO,Brazil,,0
 722131.TWO,YUANTA SECURITIES C/W 21/07/16(,TWO,Taiwan,,0
 ZY3.F,ZYNGA-A,FRA,Germany,Multimedia & Graphics Software,820
 DLR,Digital Realty Trust Inc.,NYQ,USA,REIT - Office,441
-TEFOF,"Telef—nica, S.A.",PNK,USA,,0
+TEFOF,"TelefÑnica, S.A.",PNK,USA,,0
 IPO.L,IP Group Plc,LSE,UK,Asset Management,422
 LQZ1.MU,THAI OIL NVDR,MUN,Germany,Oil & Gas Refining & Marketing,122
 CHWG,"China Water Group, Inc.",PNK,USA,,0
@@ -15442,7 +15442,7 @@ GWTCF,GREAT WALL TECH CO L,PNK,USA,,0
 BNNP,Bank of Napa NA,OBB,USA,Regional - Pacific Banks,416
 FRU.DE,Ferratum Oyj,GER,Germany,,0
 NULM,New ULM Telecom Inc.,PNK,USA,Telecom Services - Foreign,845
-KRONT.IS,Kron TelekomŸnikasyon Hizmetleri AS,IST,Turkey,,0
+KRONT.IS,Kron TelekomÙnikasyon Hizmetleri AS,IST,Turkey,,0
 HIPHD,American Premium Water Corporation,PNK,USA,,0
 1083.HK,Towngas China Company Limited,HKG,Hong Kong,Gas Utilities,912
 27M.F,MELROSE IND,FRA,Germany,,0
@@ -16046,7 +16046,7 @@ KLPEF,Klepierre SA,PNK,USA,,0
 WLT,"Walter Energy, Inc.",NYQ,USA,,0
 SENR,"Strategic Environmental & Energy Resources, Inc.",PNK,USA,,0
 ITU.BE,INTUIT,BER,Germany,Technical & System Software,822
-USNZY,Usinas Siderœrgicas de Minas Gerais S.A.,PNK,USA,,0
+USNZY,Usinas SiderÏrgicas de Minas Gerais S.A.,PNK,USA,,0
 IEEX11.SA,IEELETRICA  IEE,SAO,Brazil,,0
 QKS.BE,QUIKSILVER INC,BER,Germany,Textile - Apparel Clothing,320
 HKXCY,Hong Kong Exchanges & Clearing Limited,PNK,USA,,0
@@ -16359,7 +16359,7 @@ CFI,"Culp, Inc.",NYQ,USA,Textile Industrial,628
 LCR.BE,LAS VEGAS SANDS,BER,Germany,Resorts & Casinos,711
 SZMK,Sizmek Inc.,NMS,USA,Advertising Agencies,720
 TCH.PA,Technicolor SA,PAR,France,Entertainment - Diversified,722
-ARGNF,arGEN-XÊN.V,PNK,USA,,0
+ARGNF,arGEN-XæN.V,PNK,USA,,0
 722204.TWO,YUANTA SECURITIES C/W 24/06/16(,TWO,Taiwan,,0
 T62.BE,TOHO ZINC CO LTD,BER,Germany,Industrial Metals & Minerals,133
 CGRH,"Cougar Holdings, Inc.",PNK,USA,,0
@@ -16712,7 +16712,7 @@ LED.L,LED International Holdings Limited,LSE,UK,Diversified Electronics,836
 0319.HK,China Metal International Holdings Inc.,HKG,Hong Kong,Industrial Metals & Minerals,133
 REA.AX,REA Group Limited,ASX,Australia,Internet Information Providers,851
 LTRE,Learning Tree International Inc.,NGM,Sweden,Education & Training Services,766
-ALK-B.CO,ALK-Abell— A/S,CPH,Denmark,,0
+ALK-B.CO,ALK-AbellÑ A/S,CPH,Denmark,,0
 YP1.BE,PRIMA BIOMED,BER,Germany,,0
 0144.HK,China Merchants Holdings (International) Company Limited,HKG,Hong Kong,Shipping,775
 SAGE,"Sage Therapeutics, Inc.",NGM,Sweden,Biotechnology,515
@@ -16758,7 +16758,7 @@ APE.AX,AP Eagers Ltd.,ASX,Australia,Auto Dealerships,744
 X-PE.TO,CAPITAL POWER CORPORATION PREF ,TOR,Canada,,0
 ADORWELD.NS,Ador Welding Ltd.,NSI,India,Diversified Machinery,622
 V9LA.F,CDN OVERSEAS ,FRA,Germany,Independent Oil & Gas,121
-SJOVA.IC,Sj—v‡-Almennar tryggingar hf.,ICE,Iceland,,0
+SJOVA.IC,SjÑvà-Almennar tryggingar hf.,ICE,Iceland,,0
 QTN.SG,Titan Medical Inc.,STU,Germany,,0
 2488.TW,"Hanpin Electron Co., Ltd.",TAI,Taiwan,Electronic Equipment,314
 722086.TWO,JIH SUN SECURITIES C/W 16/06/16,TWO,Taiwan,,0
@@ -17009,7 +17009,7 @@ QF.V,Quikflo Health Inc.,VAN,Canada,,0
 ENTA,"Enanta Pharmaceuticals, Inc.",NMS,USA,Biotechnology,515
 NCL.BK,NCL International Logistics PCL,SET,Thailand,,0
 RTMVF,Rightmove plc,PNK,USA,,0
-WUW.DE,WŸstenrot & WŸrttembergische AG,GER,Germany,Money Center Banks,410
+WUW.DE,WÙstenrot & WÙrttembergische AG,GER,Germany,Money Center Banks,410
 61Z.F,ZUEBLIN IMM HLDG N,FRA,Germany,Property Management,448
 NLS,Nautilus Inc.,NYQ,USA,Sporting Goods,316
 YNGA.L,"Young & Co.'s Brewery, P.L.C.",LSE,UK,Restaurants,712
@@ -17086,7 +17086,7 @@ WMMVF,Wal-Mart de Mexico SAB De CV,PNK,USA,,0
 WGSA.BE,SS&C; TECH HLDGS,BER,Germany,Business Software & Services,826
 BNGLF,Bengal Energy Ltd,PNK,USA,,0
 SCMP,"Sucampo Pharmaceuticals, Inc.",NGM,Sweden,Drug Manufacturers - Other,511
-CTAX4.SA,Contax Participaç›es S.A.,SAO,Brazil,Business Services,760
+CTAX4.SA,Contax Participaç_es S.A.,SAO,Brazil,Business Services,760
 LDVA.SG,GEMALTO SP ADR,STU,Germany,,0
 SYK.SW,STRYKER,EBS,Austria,,0
 JNES,Jonestown Bank & Trust Co.,PNK,USA,,0
@@ -17155,7 +17155,7 @@ QKLS,QKL Stores Inc.,NCM,Australia,Grocery Stores,734
 AGR,"Avangrid, Inc.",NYQ,USA,,0
 8147-OL.HK,MILLENNIUM-NEW,HKG,Hong Kong,,0
 OYP19.BA,YPF SA 1.29% GTD NTS 04/2017 US,BUE,Argentina,,0
-DIDAY,"Distribuidora Internacional de Alimentaci—n, S.A.",PNK,USA,,0
+DIDAY,"Distribuidora Internacional de AlimentaciÑn, S.A.",PNK,USA,,0
 MNGA,MagneGas Corporation,NCM,Australia,Major Integrated Oil & Gas,120
 GNC.L,Greencore Group plc,LSE,UK,Food - Major Diversified,340
 INOV,"Inovalon Holdings, Inc.",NMS,USA,Healthcare Information Services,825
@@ -17273,7 +17273,7 @@ MOHCY,Motor Oil Hellas Corinth Refineries SA,PNK,USA,,0
 OCLDF,Orica Limited,PNK,USA,,0
 VLKAY,Volkswagen AG,PNK,USA,,0
 ISV.TO,Information Services Corporation,TOR,Canada,Business Services,760
-CRESF,"Cresud Sociedad An—nima Comercial, Inmobiliaria, Financiera y Agropecuaria",PNK,USA,,0
+CRESF,"Cresud Sociedad AnÑnima Comercial, Inmobiliaria, Financiera y Agropecuaria",PNK,USA,,0
 JISLDVREQ.NS,JAIN IRRIGATION SYSTEMS LIMITED,NSI,India,,0
 WIIM.JK,WISMILAK INTI MAKM IDR100,JKT,Indonesia,,0
 3DW.HM,DP WORLD,HAM,Germany,,0
@@ -17506,7 +17506,7 @@ ATST.L,Alliance Trust PLC,LSE,UK,Asset Management,422
 NPNZF,NIPPON ANTENNA CO LT,PNK,USA,,0
 HOIEF,Hosiden Corporation,PNK,USA,,0
 WECFF,White Energy Company Limited,PNK,USA,,0
-PLPL,"Planda’ Biotechnology, Inc.",PNK,USA,Biotechnology,515
+PLPL,"PlandaÕ Biotechnology, Inc.",PNK,USA,Biotechnology,515
 BXZ.F,BANK OF QUEENSLAND,FRA,Germany,Money Center Banks,410
 EIG,"Employers Holdings, Inc.",NYQ,USA,Accident & Health Insurance,431
 0309-OL.HK,XH NEWS MEDIA,HKG,Hong Kong,,0
@@ -17611,7 +17611,7 @@ CBS,CBS Corporation,NYQ,USA,Entertainment - Diversified,722
 CUGCF,CHINA ORIENTAL GRP C,PNK,USA,,0
 KOG.OL,Kongsberg Gruppen ASA,OSL,Norway,Aerospace/Defense - Major Diversified,610
 OLP,One Liberty Properties Inc.,NYQ,USA,REIT - Diversified,440
-TKHVY,TŸrk Hava Yollari Anonim Ortakligi,PNK,USA,,0
+TKHVY,TÙrk Hava Yollari Anonim Ortakligi,PNK,USA,,0
 KZMYY,KAZ Minerals plc,PNK,USA,,0
 ZVAA.SG,CELLECTIS SP ADR,STU,Germany,,0
 FLW.BE,FLUGHAFEN WIEN,BER,Germany,"Air Services, Other",772
@@ -17683,11 +17683,11 @@ OWX.BE,YPSOMED HLDG N,BER,Germany,Medical Appliances & Equipment,521
 BNCIF,Big North Graphite Corp.,PNK,USA,,0
 V33.SG,VTION WIRELESS,STU,Germany,Data Storage Devices,813
 CHZ.AX,Chesser Resources Limited,ASX,Australia,Copper,131
-CGAS5.SA,Companhia de GÌÁs de SÌ£o Paulo - COMGÌÅS,SAO,Brazil,,0
+CGAS5.SA,Companhia de Gíçs de Sí£o Paulo - COMGíÅS,SAO,Brazil,,0
 ZSV.F,SILVER STANDARD RES,FRA,Germany,Silver,135
 KATMR.IS,Katmerciler Arac Ustu Ekipman Sanayi ve Ticaret A.S.,IST,Turkey,,0
 CRQ.AX,Credo Resources Limited,ASX,Australia,Industrial Metals & Minerals,133
-ITUB3.SA,Itaœ Unibanco Holding S.A.,SAO,Brazil,Money Center Banks,410
+ITUB3.SA,ItaÏ Unibanco Holding S.A.,SAO,Brazil,Money Center Banks,410
 MIH.SG,MITSUBI HEAVY IND,STU,Germany,Diversified Machinery,622
 NPK.TO,Verde Potash Plc,TOR,Canada,Industrial Metals & Minerals,133
 HUSI-PF,"HSBC USA, Inc. Preferred Series",NYQ,USA,,0
@@ -17697,13 +17697,13 @@ WLC.TO,Western Lithium USA Corporation,TOR,Canada,,0
 ENH,Endurance Specialty Holdings Ltd.,NYQ,USA,Property & Casualty Insurance,432
 JPM-PA,J P Morgan Chase & Co Depositar,NYQ,USA,,0
 PSSS,"Puissant Industries, Inc.",OBB,USA,Independent Oil & Gas,121
-AFYON.IS,Afyon ‚imento Sanayi TŸrk Anonim Sirketi,IST,Turkey,,0
+AFYON.IS,Afyon âimento Sanayi TÙrk Anonim Sirketi,IST,Turkey,,0
 QR2.F,QUATERRA RESOURCES,FRA,Germany,Industrial Metals & Minerals,133
 EDP.LS,EDP-ENERGIAS R,LIS,Portugal,,0
 EPHGF,EASTERN PROP HLDGS,PNK,USA,,0
 ZO1.F,ZOOPLUS,FRA,Germany,Food - Major Diversified,340
 1172.HK,Midas International Holdings Limited,HKG,Hong Kong,Home Furnishings & Fixtures,311
-ITUB,Itaœ Unibanco Holding S.A.,NYQ,USA,Foreign Regional Banks,418
+ITUB,ItaÏ Unibanco Holding S.A.,NYQ,USA,Foreign Regional Banks,418
 PVD.AX,Pura Vida Energy NL,ASX,Australia,Independent Oil & Gas,121
 RYDAF,Royal Dutch Shell plc,PNK,USA,,0
 SZSMF,Santacruz Silver Mining Ltd.,PNK,USA,,0
@@ -17893,7 +17893,7 @@ MSNFY,"Minera Frisco, S.A.B. de C.V.",PNK,USA,,0
 WMNNF,Western Mining Network Limited,PNK,USA,,0
 OSL-UN.TO,OCP SENIOR CREDIT FUND,TOR,Canada,,0
 PCFT.L,Polar Capital Global Financials Ord,LSE,UK,,0
-MURGY,MŸnchener RŸckversicherungs-Gesellschaft Aktiengesellschaft,PNK,USA,,0
+MURGY,MÙnchener RÙckversicherungs-Gesellschaft Aktiengesellschaft,PNK,USA,,0
 SBMSF,Danakali Ltd.,PNK,USA,,0
 QDA.SG,AI AIRPORTS INT,STU,Germany,,0
 IO,ION Geophysical Corporation,NYQ,USA,Oil & Gas Equipment & Services,124
@@ -18002,7 +18002,7 @@ SCR.PA,SCOR SE,PAR,France,Property & Casualty Insurance,432
 J2T.SI,Hock Lian Seng Holdings Limited,SES,Singapore,General Contractors,636
 PBHC,"Pathfinder Bancorp, Inc.",NCM,Australia,Savings & Loans,419
 V38.F,ENERGYO SOL RUSSIA,FRA,Germany,Electric Utilities,911
-LVMHF,LVMH Mo‘t Hennessy Louis Vuitton SA,PNK,USA,,0
+LVMHF,LVMH MoÔt Hennessy Louis Vuitton SA,PNK,USA,,0
 ZAL.HA,ZALANDO,HAN,Germany,"Specialty Retail, Other",745
 XTMCF,Xtreme Drilling and Coil Services Corp.,PNK,USA,,0
 GLBS,Globus Maritime Limited,NGM,Sweden,Shipping,775
@@ -18377,7 +18377,7 @@ RPT.L,Regal Petroleum plc,LSE,UK,Independent Oil & Gas,121
 XTE.BE,ENLINK MIDSTR PARTN,BER,Germany,,0
 WN-PA.TO,GEORGE WESTON LIMITED PR SERIES,TOR,Canada,,0
 ELB-UN.TO,EXCEL LATIN AMERICA BOND FUND I,TOR,Canada,,0
-ULKER.IS,†lker BiskŸvi Sanayi Anonim Sirketi,IST,Turkey,,0
+ULKER.IS, lker BiskÙvi Sanayi Anonim Sirketi,IST,Turkey,,0
 CNSO,"CNS Response, Inc.",PNK,USA,Diagnostic Substances,516
 TKTDY,Takata Corporation,PNK,USA,,0
 SNHY,Sun Hydraulics Corp.,NMS,USA,Industrial Equipment & Components,621
@@ -18511,7 +18511,7 @@ UMG.F,XTV NETWORKS,FRA,Germany,,0
 JAU.V,Jet Gold Corp.,VAN,Canada,Industrial Metals & Minerals,133
 ULS.L,ULS Technology plc,LSE,UK,Internet Information Providers,851
 UMICY,Umicore S.A.,PNK,USA,,0
-FCCQ11.SA,"FCCQ - Conquest Fundo Investimento Participacoes - Cota Fundo – Cotas Fund",SAO,Brazil,,0
+FCCQ11.SA,"FCCQ - Conquest Fundo Investimento Participacoes - Cota Fundo _ Cotas Fund",SAO,Brazil,,0
 JIXAY,Jiangxi Copper Company Limited,PNK,USA,,0
 J0M.SI,db x-trackers - MSCI Emerging Markets Index UCITS ETF,SES,Singapore,,0
 PMOIY,Premier Oil plc,PNK,USA,,0
@@ -18970,7 +18970,7 @@ BKG.L,The Berkeley Group Holdings plc,LSE,UK,Residential Construction,630
 PARP.BA,ARGENTINA(REP OF) 1.18%-VAR 31/,BUE,Argentina,,0
 ZEEENTBBPH.BO,ZEE ENT*,BSE,India,,0
 QC7.SI,Q & M Dental Group (Singapore) Limited,SES,Singapore,Hospitals,524
-SAX.DE,StrÌ_er SE,GER,Germany,Advertising Agencies,720
+SAX.DE,Strí_er SE,GER,Germany,Advertising Agencies,720
 JHC-H.V,JINHUA CAPITAL CORP,VAN,Canada,,0
 NXCR,NexCore Healthcare Capital Corp.,PNK,USA,,0
 VOW.DE,Volkswagen AG,GER,Germany,Auto Manufacturers - Major,330
@@ -19230,7 +19230,7 @@ KMNFF,Mitchell Resources Ltd.,PNK,USA,,0
 YUASA-R.BK,Yuasa Battery Thailand Public Company Limited,SET,Thailand,,0
 XGC.F,CROCODILE GOLD,FRA,Germany,Gold,134
 ROE.V,Renaissance Oil Corp.,VAN,Canada,Independent Oil & Gas,121
-DOME.BA,DOMEC C’a De Artefactos Domesticos Sociedad Anonima Industrial Comercial y Financiera,BUE,Argentina,Home Furnishings & Fixtures,311
+DOME.BA,DOMEC CÕa De Artefactos Domesticos Sociedad Anonima Industrial Comercial y Financiera,BUE,Argentina,Home Furnishings & Fixtures,311
 YLWWF,YELLOW MEDIA,PNK,USA,,0
 2WBA.BE,WEIBO SP ADS-A,BER,Germany,,0
 RDO.DU,SIRIUS XM HLDGS,DUS,Germany,,0
@@ -19463,7 +19463,7 @@ FLTX,Fleetmatics Group PLC,NYQ,USA,Application Software,821
 722144.TWO,YUANTA SECURITIES C/W 22/06/16(,TWO,Taiwan,,0
 VIC-DB.TO,VICWEST INC. 6.00 PCT DBS,TOR,Canada,,0
 AIVN,American International Ventures Inc.,PNK,USA,Gold,134
-SMTO3.SA,"S‹o Martinho S.A.",SAO,Brazil,,0
+SMTO3.SA,"SÜo Martinho S.A.",SAO,Brazil,,0
 SYTE,Sitestar Corp.,OBB,USA,Internet Service Providers,850
 VS1.F,VIASAT,FRA,Germany,Communication Equipment,841
 PHX.TO,PHX Energy Services Corp.,TOR,Canada,Oil & Gas Drilling & Exploration,123
@@ -19537,7 +19537,7 @@ GUFAF,Grupo Famsa S.A.B. de C.V.,PNK,USA,,0
 SXV.F,XINHUA WINSHARE -H-,FRA,Germany,,0
 AWRE,"Aware, Inc.",NGM,Sweden,Application Software,821
 INPP.L,International Public Partnerships Limited,LSE,UK,,0
-JOPA3.SA,JOSAPAR Joaquim Oliveira S.A Participaç›es,SAO,Brazil,,0
+JOPA3.SA,JOSAPAR Joaquim Oliveira S.A Participaç_es,SAO,Brazil,,0
 CSRMY,Consort Medical plc.,PNK,USA,,0
 PRMRF,Paramount Resources Ltd.,PNK,USA,,0
 HRMNW,Harmony Merger Corp.,NCM,Australia,,0
@@ -20056,7 +20056,7 @@ ANDREWYU.BO,Andrew Yule & Company Ltd.,BSE,India,Diversified Machinery,622
 ASND,Ascendis Pharma A/S,NMS,USA,Biotechnology,515
 TC6.F,TAKEEI,FRA,Germany,,0
 A68U.SI,Ascott Residence Trust,SES,Singapore,,0
-ACSAF,"Actividades de Construcci—n y Servicios, S.A.",PNK,USA,,0
+ACSAF,"Actividades de ConstrucciÑn y Servicios, S.A.",PNK,USA,,0
 MEQ.TO,Mainstreet Equity Corp.,TOR,Canada,Property Management,448
 OEX.AX,Oilex Ltd.,ASX,Australia,Independent Oil & Gas,121
 UG8K.SG,AVENG,STU,Germany,General Contractors,636
@@ -20270,7 +20270,7 @@ G92.SI,China Aviation Oil (Singapore) Corporation Ltd,SES,Singapore,Oil & Gas Re
 VEDL,Vedanta Limited,NYQ,USA,,0
 2SO.BE,SOPHOS GROUP,BER,Germany,,0
 TBT.BE,TOKUYAMA,BER,Germany,Specialty Chemicals,113
-BVN,CompaÌ±Ì_a de Minas Buenaventura S.A.A.,NYQ,USA,Industrial Metals & Minerals,133
+BVN,Compaí±í_a de Minas Buenaventura S.A.A.,NYQ,USA,Industrial Metals & Minerals,133
 CFIN.JK,CLIPAN FINANCE IDR250,JKT,Indonesia,,0
 Q8Q.BE,QEP RESOURCES,BER,Germany,Oil & Gas Pipelines,125
 BINDALAGRO-BE.NS,OSWAL CHEM & FERT-DEP SET,NSI,India,,0
@@ -20351,13 +20351,13 @@ NSI.L,New Star Investment Trust Ord,LSE,UK,,0
 1504.TW,TECO Electric & Machinery Co. Ltd.,TAI,Taiwan,Conglomerates,210
 MMHD.TA,Menora Mivtachim Holdings Ltd,TLV,Israel,,0
 TIM.DE,ZEAL Network SE,GER,Germany,Gaming Activities,714
-TNE2.DE,"Telef—nica, S.A.",GER,Germany,Wireless Communications,840
+TNE2.DE,"TelefÑnica, S.A.",GER,Germany,Wireless Communications,840
 CIN.L,City of London Group plc,LSE,UK,Asset Management,422
 XO-R.BK,Exotic Food Public Company Limited,SET,Thailand,,0
 CFX,Colfax Corporation,NYQ,USA,Diversified Machinery,622
 EPD,Enterprise Products Partners L.P.,NYQ,USA,Independent Oil & Gas,121
 WHA.MU,WHARF (HLDGS),MUN,Germany,Property Management,448
-CURM,"C†R Media, Inc.",OBB,USA,Internet Information Providers,851
+CURM,"C R Media, Inc.",OBB,USA,Internet Information Providers,851
 1818-OL.HK,ZHAOJIN MINING,HKG,Hong Kong,,0
 FMAO,Farmers and Merchants Bancorp Inc.,OBB,USA,Regional - Midwest Banks,414
 UCLE,US NUCLEAR CORP,OBB,USA,,0
@@ -20476,7 +20476,7 @@ XEK.BE,FORTRESS INVEST-A,BER,Germany,Asset Management,422
 0425.HK,Minth Group Ltd.,HKG,Hong Kong,Auto Parts,333
 35V.SG,VIMPELCOM SP ADR,STU,Germany,Wireless Communications,840
 UE,Urban Edge Properties,NYQ,USA,,0
-GRAM,Gra–a y Montero S.A.A.,NYQ,USA,Technical Services,767
+GRAM,Gra_a y Montero S.A.A.,NYQ,USA,Technical Services,767
 SBFFF,SBM Offshore N.V.,PNK,USA,,0
 HUH1V.HE,Huhtamaki Oyj,HEL,Finland,,0
 1251-OL.HK,SPT ENERGY,HKG,Hong Kong,,0
@@ -20792,7 +20792,7 @@ XLMDF,XLMedia PLC,PNK,USA,,0
 PU11.L,PUMA VCT 11,LSE,UK,,0
 R2:WHRL3S.SA,WHIRLPOOL SA,SAO,Brazil,,0
 0648-OL.HK,WAH YAN HEALTH,HKG,Hong Kong,,0
-CEGR3.SA,"Companhia Distribuidora de G‡s do Rio de Janeiro - CEG",SAO,Brazil,Gas Utilities,912
+CEGR3.SA,"Companhia Distribuidora de Gàs do Rio de Janeiro - CEG",SAO,Brazil,Gas Utilities,912
 BUR,Burcon Nutrascience Corporation,NGM,Sweden,,0
 XEUA.BE,KSH HOLDINGS,BER,Germany,Real Estate Development,449
 FJZ.DU,ZIJIN MINING -H-,DUS,Germany,Industrial Metals & Minerals,133
@@ -20966,7 +20966,7 @@ XBLA.MU,BKK LIFE ASSUR NVDR,MUN,Germany,,0
 COWN,"Cowen Group, Inc.",NMS,USA,Investment Brokerage - National,420
 BCO,The Brink's Company,NYQ,USA,Security & Protection Services,765
 EH.TO,goeasy Ltd.,TOR,Canada,"Specialty Retail, Other",745
-PDGRY,PDG Realty S.A. Empreendimentos e Participaç›es,PNK,USA,,0
+PDGRY,PDG Realty S.A. Empreendimentos e Participaç_es,PNK,USA,,0
 GBR.V,Great Bear Resources Ltd.,VAN,Canada,Independent Oil & Gas,121
 CWYUF,Smart Real Estate Investment Trust,PNK,USA,,0
 CCK,Crown Holdings Inc.,NYQ,USA,Packaging & Containers,325
@@ -21076,7 +21076,7 @@ VINATIORGA.BO,VINATI ORGANICS LTD.,BSE,India,,0
 LGLD.IL,LG SP.GDR-144A PFD,IOB,UK,,0
 DRW3.SW,DRAEGERWERK VZ,EBS,Austria,,0
 ICP.L,Intermediate Capital Group plc,LSE,UK,Asset Management,422
-PBR-A,Petr—leo Brasileiro S.A. - Petrobras,NYQ,USA,Oil & Gas Drilling & Exploration,123
+PBR-A,PetrÑleo Brasileiro S.A. - Petrobras,NYQ,USA,Oil & Gas Drilling & Exploration,123
 K1R.SG,KROMI LOGISTIK,STU,Germany,Industrial Equipment Wholesale,752
 ELPVY,Companhia Paranaense de Energia - COPEL,PNK,USA,,0
 VER,"VEREIT, Inc.",NYQ,USA,,0
@@ -21130,7 +21130,7 @@ NATH,Nathan's Famous Inc.,NMS,USA,Restaurants,712
 MAN,ManpowerGroup Inc.,NYQ,USA,Staffing & Outsourcing Services,764
 CHR-B.TO,CHORUS AVIATION INC CL B,TOR,Canada,,0
 NME.AX,Nex Metals Explorations Ltd,ASX,Australia,Gold,134
-MLGEQ.PA,GentlemenÕs Venture S.A.,PAR,France,,0
+MLGEQ.PA,GentlemenÍs Venture S.A.,PAR,France,,0
 MTLRF,Metalore Resources Ltd.,PNK,USA,,0
 MPSFF,MPH Ventures Corp.,PNK,USA,,0
 XTGRF,Xtra-Gold Resources Corp.,PNK,USA,,0
@@ -21402,7 +21402,7 @@ PVEIF,PETRO VIKING ENERGY,PNK,USA,,0
 CABO-WI,"Cable One, Inc. Common Stock Wh",NYQ,USA,,0
 KILBURN.BO,Kilburn Office Automation Ltd.,BSE,India,Business Equipment,313
 MLKRI.PA,Bernard Krief Consultants SA,PAR,France,Mortgage Investment,447
-VIVT4.SA,Telef™nica Brasil S.A.,SAO,Brazil,,0
+VIVT4.SA,Telefªnica Brasil S.A.,SAO,Brazil,,0
 510583.SS,,SHH,Australia,,0
 MBTF,MBT Financial Corp.,NMS,USA,Regional - Northeast Banks,411
 FNTC,FinTech Acquisition Corp.,NCM,Australia,Conglomerates,210
@@ -21679,7 +21679,7 @@ SEP,"Spectra Energy Partners, LP",NYQ,USA,Oil & Gas Pipelines,125
 SGOC,"SGOCO Group, Ltd.",NCM,Australia,Electronic Equipment,314
 KLBF.JK,KALBE FARMA IDR10,JKT,Indonesia,,0
 JUP.L,Jupiter Fund Management Plc,LSE,UK,Asset Management,422
-CMOCTEZ.MX,"Corporaci—n Moctezuma, SAB de CV",MEX,Mexico,General Building Materials,634
+CMOCTEZ.MX,"CorporaciÑn Moctezuma, SAB de CV",MEX,Mexico,General Building Materials,634
 JBFIND6.BO,JBF INDUSTRIES LTD,BSE,India,,0
 URG,UR-Energy Inc.,ASE,USA,Industrial Metals & Minerals,133
 2954-OL.HK,WILLASARRAY-OLD,HKG,Hong Kong,,0
@@ -21703,7 +21703,7 @@ MU7.SI,DBS Bank Ltd.,SES,Singapore,,0
 CDU.AX,CuDeco Ltd.,ASX,Australia,,0
 QCC1O.BA,QUICKFOOD SA FRN 09/2015 ARS 'C,BUE,Argentina,,0
 VISWVIS.BO,VISHVA VISHAL ENGINEERING LTD.,BSE,India,,0
-MLHIN.PA,"Soci_t_ H™telière et Immobilière de Nice S.A.",PAR,France,Lodging,710
+MLHIN.PA,"Soci_t_ Hªtelière et Immobilière de Nice S.A.",PAR,France,Lodging,710
 AGYS,Agilysys Inc.,NMS,USA,Application Software,821
 QCFS.QA,Qatar Cinema and Film Distribution Company (Q.S.C.),DOH,Qatar,,0
 AJSB,"AJS Bancorp, Inc.",PNK,USA,Regional - Midwest Banks,414
@@ -22063,7 +22063,7 @@ WHC.AX,Whitehaven Coal Limited,ASX,Australia,Industrial Metals & Minerals,133
 GRBMF,"Grupo Bimbo, S.A.B. de C.V.",PNK,USA,,0
 ORRF,Orrstown Financial Services Inc.,NCM,Australia,Regional - Northeast Banks,411
 SSFN,Stewardship Financial Corp.,NCM,Australia,Regional - Northeast Banks,411
-GTQ1.DE,"Gamesa Corporaci—n Tecnol—gica S.A.",GER,Germany,Diversified Machinery,622
+GTQ1.DE,"Gamesa CorporaciÑn TecnolÑgica S.A.",GER,Germany,Diversified Machinery,622
 SBRCY,Sberbank of Russia OJSC,PNK,USA,,0
 MYMX,Mymetics Corporation,PNK,USA,,0
 03035X.TW,YUANTA SECURITIES C/W 31/05/16(,TAI,Taiwan,,0
@@ -22603,7 +22603,7 @@ WBSI,"WebSafety, Inc.",PNK,USA,Healthcare Information Services,825
 NPSKF,N S K LTD ORD,PNK,USA,,0
 AMMJ,"American Cannabis Company, Inc.",PNK,USA,,0
 RADL3.SA,Raia Drogasil SA,SAO,Brazil,,0
-YAPRK.IS,Yaprak SŸt ve Besi ‚iftlikleri Sanayi ve Ticaret  A.S,IST,Turkey,,0
+YAPRK.IS,Yaprak SÙt ve Besi âiftlikleri Sanayi ve Ticaret  A.S,IST,Turkey,,0
 SRKZF,Strike Diamond Corp.,PNK,USA,,0
 FSYS,"Fuel Systems Solutions, Inc.",NMS,USA,Auto Parts,333
 SDGB,SSNB Inc,PNK,USA,,0
@@ -22664,7 +22664,7 @@ XKR.BE,KAR AUCTION SERVICE,BER,Germany,"Specialty Retail, Other",745
 ATM.NZ,The a2 Milk Company Limited,NZE,New Zealand,Farm Products,341
 BKFY,"Bankshares of Fayetteville, Inc.",PNK,USA,,0
 ACRB,"Asia Carbon Industries, Inc.",PNK,USA,Specialty Chemicals,113
-MCNV.PA,LVMH Mo‘t Hennessy Louis Vuitton SA,PAR,France,Jewelry Stores,742
+MCNV.PA,LVMH MoÔt Hennessy Louis Vuitton SA,PAR,France,Jewelry Stores,742
 E7RA.SG,Xemplar Energy Corp.,STU,Germany,,0
 WMGI,Wright Medical Group N.V.,NMS,USA,Medical Appliances & Equipment,521
 049720.KQ,"Koryo Credit Information Co., Ltd.",KOE,South Korea,,0
@@ -22707,7 +22707,7 @@ KTBA,SPC BELLSOUTH CORTS,PNK,USA,,0
 ZSVARAJT.BO,SVARAJ TRADING & AGENCIES LTD.,BSE,India,,0
 GOGL,Golden Ocean Group Limited,NMS,USA,Shipping,775
 BRH.DE,Berkshire Hathaway Inc.,GER,Germany,Property & Casualty Insurance,432
-MLCVG.PA,SociÌ©tÌ© des Chemins de Fer et Tramways du Var et du Gard,PAR,France,Asset Management,422
+MLCVG.PA,Socií©tí© des Chemins de Fer et Tramways du Var et du Gard,PAR,France,Asset Management,422
 XSA.MU,XIWANG PROPERTY,MUN,Germany,Real Estate Development,449
 BC9N.SG,BANK OF CYPRUS,STU,Germany,,0
 AINN.MU,AMERICAN INTL GROUP,MUN,Germany,,0
@@ -22753,7 +22753,7 @@ RECN,"Resources Connection, Inc.",NMS,USA,Staffing & Outsourcing Services,764
 LFGP,"Ledyard Financial Group, Inc.",PNK,USA,,0
 HANPF,HANMI PHARMACEUTICAL,PNK,USA,,0
 VSMR,Verify Smart Corp.,PNK,USA,Application Software,821
-PWZYF,Powszechny Zaklad Ubezpieczen Sp—lka Akcyjna,PNK,USA,,0
+PWZYF,Powszechny Zaklad Ubezpieczen SpÑlka Akcyjna,PNK,USA,,0
 YOJ.F,YAHOO JAPAN,FRA,Germany,Internet Information Providers,851
 AISA.JK,TIGA PILAR SEJAHTE LKD SHS(IDR5,JKT,Indonesia,,0
 TXMD,"TherapeuticsMD, Inc.",ASE,USA,Drug Manufacturers - Major,510
@@ -23059,7 +23059,7 @@ KDB.BE,KBC GR,BER,Germany,Money Center Banks,410
 BRHM,Brenham Oil & Gas Corp.,PNK,USA,Independent Oil & Gas,121
 OROXF,Orosur Mining Inc.,PNK,USA,,0
 NXT.L,Next Plc,LSE,UK,Apparel Stores,730
-UZAPF,Flughafen ZŸrich AG,PNK,USA,,0
+UZAPF,Flughafen ZÙrich AG,PNK,USA,,0
 SAMG,Silvercrest Asset Management Group Inc.,NGM,Sweden,,0
 NMY,Nuveen Maryland Premium Income Municipal Fund,NYQ,USA,,0
 QIL.L,QANNAS INVMT USD,LSE,UK,,0
@@ -23242,7 +23242,7 @@ RWE.DE,RWE AG,GER,Germany,Diversified Utilities,913
 CEM,ClearBridge Energy MLP Fund Inc.,NYQ,USA,,0
 721891.TWO,JIH SUN SECURITIES C/W 01/09/16,TWO,Taiwan,,0
 FUC.F,FANUC,FRA,Germany,Diversified Machinery,622
-MOH.DE,LVMH Mo‘t Hennessy Louis Vuitton SA,GER,Germany,Jewelry Stores,742
+MOH.DE,LVMH MoÔt Hennessy Louis Vuitton SA,GER,Germany,Jewelry Stores,742
 SMDM,"The Singing Machine Company, Inc.",OBB,USA,Electronic Equipment,314
 JBI.F,JUBILANT ENERGY,FRA,Germany,,0
 ZCHA.F,CHINA TELE SP ADR-H,FRA,Germany,Wireless Communications,840
@@ -23415,7 +23415,7 @@ GSOL,Global Sources Ltd.,NMS,USA,Business Services,760
 JKCEMENT.BO,J.K.CEMENT LTD.,BSE,India,,0
 BOREF,Borealis Exploration Limited,PNK,USA,,0
 WG3.F,EAST ASIA MINERALS,FRA,Germany,Industrial Metals & Minerals,133
-BMRMF,Soci_t_ Anonyme des Bains de Mer et du Cercle des ƒtrangers ˆ Monaco,PNK,USA,,0
+BMRMF,Soci_t_ Anonyme des Bains de Mer et du Cercle des Ätrangers ö Monaco,PNK,USA,,0
 GLYC,"GlycoMimetics, Inc.",NGM,Sweden,Biotechnology,515
 WPHM,"Winston Pharmaceuticals, Inc.",PNK,USA,,0
 LKU.BE,LUMBER LIQ HLDG,BER,Germany,,0
@@ -23487,7 +23487,7 @@ AFFM,Affirmative Insurance Holdings Inc.,PNK,USA,,0
 PYD.V,Poydras Gaming Finance Corp.,VAN,Canada,Gaming Activities,714
 KTF.BE,MONDELEZ INT-A,BER,Germany,,0
 FG5.HM,METALS X,HAM,Germany,,0
-CEMTY,"UniÌ_n Andina de Cementos S.A.A.",PNK,USA,,0
+CEMTY,"Unií_n Andina de Cementos S.A.A.",PNK,USA,,0
 HMTV,"Hemisphere Media Group, Inc.",NGM,Sweden,CATV Systems,725
 TIK,Tel-Instrument Electronics Corp.,ASE,USA,Aerospace/Defense - Major Diversified,610
 SMMT,Summit Therapeutics plc,NGM,Sweden,,0
@@ -23606,7 +23606,7 @@ GPHBF,"Graphene 3D Labs, Inc.",PNK,USA,,0
 Z1L.F,LEROY SEAFOOD ,FRA,Germany,Food - Major Diversified,340
 VCBC.L,Vertu Capital Limited,LSE,UK,,0
 SJM,The J. M. Smucker Company,NYQ,USA,Processed & Packaged Goods,342
-JBDU4.SA,Indœstrias J.B Duarte S.A.,SAO,Brazil,,0
+JBDU4.SA,IndÏstrias J.B Duarte S.A.,SAO,Brazil,,0
 SVCBY,Svenska Cellulosa Aktiebolaget SCA (publ),PNK,USA,,0
 3313.HK,ArtGo Holdings Limited,HKG,Hong Kong,,0
 YCP.DE,ConocoPhillips,GER,Germany,Independent Oil & Gas,121
@@ -24002,7 +24002,7 @@ PATK,Patrick Industries Inc.,NMS,USA,"Lumber, Wood Production",632
 0TUA.SG,TUNIU SP ADS-A,STU,Germany,,0
 17Q.F,LA QUINTA HOLDINGS,FRA,Germany,,0
 DD,E. I. du Pont de Nemours and Company,NYQ,USA,Agricultural Chemicals,112
-MAKTK.IS,Makina Takim EndŸstrisi A.S.,IST,Turkey,,0
+MAKTK.IS,Makina Takim EndÙstrisi A.S.,IST,Turkey,,0
 HLL.SG,ELLAKTOR,STU,Germany,Conglomerates,210
 GRVY,"Gravity Co., Ltd",NCM,Australia,Multimedia & Graphics Software,820
 DHIFF,DH Corporation,PNK,USA,,0
@@ -24273,7 +24273,7 @@ HCN-PI,Welltower Inc. PFD PERPETUAL CO,NYQ,USA,,0
 ALEX,"Alexander & Baldwin, Inc.",NYQ,USA,Real Estate Development,449
 RSTRF,Restaurant Brands International Limited Partnership,PNK,USA,,0
 GST,Gastar Exploration Inc.,ASE,USA,Independent Oil & Gas,121
-RDNI3.SA,Rodobens Neg—cios Imobili‡rios S.A.,SAO,Brazil,,0
+RDNI3.SA,Rodobens NegÑcios Imobiliàrios S.A.,SAO,Brazil,,0
 XMY.BE,MYBET HOLDING N,BER,Germany,,0
 BAESY,BAE Systems plc,PNK,USA,,0
 IRE.AX,IRESS Limited,ASX,Australia,Technical & System Software,822
@@ -24501,7 +24501,7 @@ USSHF,UNISERVE COMM CORP,PNK,USA,,0
 LMSH.JK,LIONMESH PRIMA IDR100,JKT,Indonesia,,0
 OAG.V,OREMEX SILVER INC,VAN,Canada,,0
 FIE.F,FIELMANN,FRA,Germany,"Specialty Retail, Other",745
-LND,Brasilagro Companhia Brasileira de Propriedades Agr’colas,NYQ,USA,Property Management,448
+LND,Brasilagro Companhia Brasileira de Propriedades AgrÕcolas,NYQ,USA,Property Management,448
 FPBF,FPB Financial Corp.,PNK,USA,,0
 SIM,Grupo Simec S.A.B. de C.V.,ASE,USA,Steel & Iron,130
 NWF.L,NWF Group plc,LSE,UK,Food Wholesale,757
@@ -24632,7 +24632,7 @@ WTFNF,WORLD TRUST FUND,PNK,USA,,0
 6198-OL.HK,QINGDAO PORT,HKG,Hong Kong,,0
 YBIN,YABOO INC,PNK,USA,,0
 RAFA,"Rafarma Pharmaceuticals, Inc.",PNK,USA,,0
-VLID3.SA,Valid Soluç›es e Serviços de Segurança em Meios de Pagamentos e Identificaç‹o S.A.,SAO,Brazil,,0
+VLID3.SA,Valid Soluç_es e Serviços de Segurança em Meios de Pagamentos e IdentificaçÜo S.A.,SAO,Brazil,,0
 TIPT,Tiptree Financial Inc.,NCM,Australia,Life Insurance,430
 UVFT,"UV Flu Technologies, Inc.",PNK,USA,Pollution & Treatment Controls,623
 OGFGF,Origin Energy Limited,PNK,USA,,0
@@ -24670,7 +24670,7 @@ XEB.SG,SOJITZ,STU,Germany,Conglomerates,210
 STP.BE,STAPLES,BER,Germany,"Specialty Retail, Other",745
 COI.AX,Comet Ridge Ltd.,ASX,Australia,Independent Oil & Gas,121
 JNP,"Juniper Pharmaceuticals, Inc.",NMS,USA,Drugs - Generic,512
-LUKSK.IS,LŸks Kadife Ticaret ve Sanayi A.S.,IST,Turkey,,0
+LUKSK.IS,LÙks Kadife Ticaret ve Sanayi A.S.,IST,Turkey,,0
 YB3.F,SHIN NIPPON MIOMEDI,FRA,Germany,,0
 MKTO,"Marketo, Inc.",NMS,USA,Application Software,821
 BRZ.V,Bearing Resources Ltd.,VAN,Canada,,0
@@ -24757,7 +24757,7 @@ TLGHF,Telenet Group Holding NV,PNK,USA,,0
 GSJ,"The Goldman Sachs Group, Inc.",NYQ,USA,,0
 3051-OL.HK,X CICC-SZSE 100,HKG,Hong Kong,,0
 CCD,Calamos Dynamic Convertible and Income Fund,NMS,USA,,0
-BVAR11.SA,Fundo De Investimento Imobili‡rio Brasil Varejo,SAO,Brazil,,0
+BVAR11.SA,Fundo De Investimento Imobiliàrio Brasil Varejo,SAO,Brazil,,0
 ABEA.DE,Alphabet Inc.,GER,Germany,,0
 MYGN,"Myriad Genetics, Inc.",NMS,USA,Research Services,768
 JEMI.L,JPMorgan Global Emerg Mkts Inc Ord,LSE,UK,,0
@@ -24883,7 +24883,7 @@ ATK.L,WS Atkins plc,LSE,UK,Business Services,760
 HLAG.DE,Hapag-Lloyd AG,GER,Germany,,0
 VLON.F,VALORA HLDG N,FRA,Germany,"Specialty Retail, Other",745
 CMPR,Cimpress N.V.,NMS,USA,Business Services,760
-TGMA3.SA,Tegma Gest‹o Log’stica S.A.,SAO,Brazil,,0
+TGMA3.SA,Tegma GestÜo LogÕstica S.A.,SAO,Brazil,,0
 NXTN,"Next10, Inc.",PNK,USA,,0
 EXE.TO,Extendicare Inc.,TOR,Canada,Long-Term Care Facilities,523
 ETX.TO,Etrion Corporation,TOR,Canada,Diversified Utilities,913
@@ -25047,7 +25047,7 @@ KRITINUT.BO,Kriti Nutrients Ltd,BSE,India,Farm Products,341
 BAA,Banro Corporation,ASE,USA,Gold,134
 1448-OL.HK,FU SHOU YUAN,HKG,Hong Kong,,0
 ROYE,"Royal Energy Resources, Inc.",PNK,USA,Property Management,448
-MILTY,Mills Estruturas e ServiÌ_os de Engenharia S.A.,PNK,USA,,0
+MILTY,Mills Estruturas e Servií_os de Engenharia S.A.,PNK,USA,,0
 GLSDF,GRUPO LAMOSA SA DE,PNK,USA,,0
 8362@BN.KL,KYM HOLDINGS BHD,KLS,Malaysia,,0
 ZENOTECH.BO,Zenotech Laboratories Limited,BSE,India,Biotechnology,515
@@ -25327,7 +25327,7 @@ SQNS,Sequans Communications S.A.,NYQ,USA,Semiconductor - Integrated Circuits,833
 SRSC,Sears Canada Inc.,NMS,USA,,0
 222420.KQ,M-4 SPAC,KOE,South Korea,,0
 RDLCF,Redline Communications Group Inc.,PNK,USA,,0
-PAC,"Grupo Aeroportuario del Pac’fico, S.A.B. de C.V.",NYQ,USA,"Air Services, Other",772
+PAC,"Grupo Aeroportuario del PacÕfico, S.A.B. de C.V.",NYQ,USA,"Air Services, Other",772
 BYLK,Baylake Corp.,NCM,Australia,Money Center Banks,410
 SDPB,San Diego Private Bank,PNK,USA,,0
 NYLE,NYLE INTL CORP,PNK,USA,,0
@@ -25499,7 +25499,7 @@ I.TO,IntelliPharmaCeutics International Inc.,TOR,Canada,Biotechnology,515
 GPP.AX,Greenpower Energy Limited,ASX,Australia,Independent Oil & Gas,121
 EZH.MU,HOMEX SP ADR,MUN,Germany,,0
 ILMN,Illumina Inc.,NMS,USA,Biotechnology,515
-SOHMF,"Bolsas y Mercados Espa–oles, Sociedad Holding de Mercados y Sistemas Financieros, S.A.",PNK,USA,,0
+SOHMF,"Bolsas y Mercados Espa_oles, Sociedad Holding de Mercados y Sistemas Financieros, S.A.",PNK,USA,,0
 ODHN.SW,ORASCOM DEVL HLDG N,EBS,Austria,,0
 718064.TWO,YUANTA SECURITIES C/W 29/09/15(,TWO,Taiwan,,0
 KLRF.BO,KLRF LTD.,BSE,India,,0
@@ -25531,7 +25531,7 @@ YHO.MU,YAHOO,MUN,Germany,Internet Information Providers,851
 ASWRF,Gungnir Resources Inc.,PNK,USA,,0
 ALGT,Allegiant Travel Company,NMS,USA,Regional Airlines,771
 XJNGF,"Xinjiang GoldWind Science & Technology Co., Ltd.",PNK,USA,,0
-VLRS,"Controladora Vuela Compa–’a de Aviaci—n, S.A.B. de C.V.",NYQ,USA,Major Airlines,770
+VLRS,"Controladora Vuela Compa_Õa de AviaciÑn, S.A.B. de C.V.",NYQ,USA,Major Airlines,770
 JISLJALEQS.BO,JAIN IRRIGATION SYSTEMS LTD.,BSE,India,,0
 VALE5F.SA,VALE        PNA     N1,SAO,Brazil,,0
 UBSH,Union Bankshares Corporation,NMS,USA,Regional - Mid-Atlantic Banks,412
@@ -25671,7 +25671,7 @@ EDG.SG,Gold Fields Ltd.,STU,Germany,Gold,134
 9601.KL,Ho Wah Genting Bhd,KLS,Malaysia,,0
 VODG,"Vitro Diagnostics, Inc.",PNK,USA,Biotechnology,515
 UEPEP,Union Electric Company,PNK,USA,,0
-HVRRY,Hannover RŸck SE,PNK,USA,,0
+HVRRY,Hannover RÙck SE,PNK,USA,,0
 VMART-IL.NS,V-MART RETAIL LIMITED,NSI,India,,0
 KKPNY,Koninklijke KPN N.V.,PNK,USA,,0
 CSS,CSS Industries Inc.,NYQ,USA,"Specialty Retail, Other",745
@@ -26022,7 +26022,7 @@ SWF.BE,STNLY BLCK&DECK;,BER,Germany,Machine Tools & Accessories,624
 CSH,"Cash America International, Inc.",NYQ,USA,Credit Services,424
 QUADRANT.BO,QUADRANT TELEVENTURES LIMITED,BSE,India,,0
 GRMN,Garmin Ltd.,NMS,USA,Scientific & Technical Instruments,837
-BRML3.SA,BR Malls Participaç›es S.A.,SAO,Brazil,Property Management,448
+BRML3.SA,BR Malls Participaç_es S.A.,SAO,Brazil,Property Management,448
 O1D1.BE,OCTODEC INV -NPV-,BER,Germany,,0
 EMU.AX,Emu NL,ASX,Australia,Industrial Metals & Minerals,133
 ISYHO.IS,ISIKLAR YAT HD,IST,Turkey,,0
@@ -26144,7 +26144,7 @@ WIEI,Wonder International Education & Investment Group Corporation,PNK,USA,Educa
 YCI-R.BK,"YONG THAI PUBLIC CO.,LTD.",SET,Thailand,,0
 NPKAF,Nampak Limited,PNK,USA,,0
 XONA.MU,EXXON MOBIL,MUN,Germany,Major Integrated Oil & Gas,120
-GOL,GOL Linhas AÌ©reas Inteligentes S.A.,NYQ,USA,Regional Airlines,771
+GOL,GOL Linhas Aí©reas Inteligentes S.A.,NYQ,USA,Regional Airlines,771
 EFCT,EFactor Group Corp.,PNK,USA,,0
 INTO.BR,INTERVEST OFFIC & W,BRU,Belgium,,0
 LCSHF,Lancashire Holdings Limited,PNK,USA,,0
@@ -26441,7 +26441,7 @@ ZZE.F,MELLANOX TECHNOLOGI,FRA,Germany,Semiconductor - Broad Line,830
 V01.SI,VICOM Ltd,SES,Singapore,Business Services,760
 ZVF.F,INDOFOOD AGRI RES,FRA,Germany,Farm Products,341
 UWC-R.BK,Ua Withya Public Company Limited,SET,Thailand,,0
-TRH1V.HE,"Trainers’ House Oyj",HEL,Finland,,0
+TRH1V.HE,"TrainersÕ House Oyj",HEL,Finland,,0
 097230.KS,Hanjin Heavy Industries & Construction Co. Ltd.,KSC,Korea,,0
 ORG.BE,CHINA ORIENTAL GRP,BER,Germany,,0
 GRP-U,Granite Real Estate Inc. Staple,NYQ,USA,,0
@@ -26583,7 +26583,7 @@ OMNT,"Ominto, Inc.",PNK,USA,,0
 UNITECH4.BO,UNITECH LTD,BSE,India,,0
 1PF.BE,PLATFIELDS,BER,Germany,,0
 BVJ.SG,BLUE NILE,STU,Germany,Jewelry Stores,742
-ROMI3.SA,Indœstrias Romi S.A.,SAO,Brazil,,0
+ROMI3.SA,IndÏstrias Romi S.A.,SAO,Brazil,,0
 VOSSY,Vossloh AG,PNK,USA,,0
 NVIV,InVivo Therapeutics Holdings Corp.,NGM,Sweden,Biotechnology,515
 MCGC,MCG Capital Corporation,NMS,USA,,0
@@ -26674,7 +26674,7 @@ JOR.V,"Jourdan Resources, Inc.",VAN,Canada,,0
 FLY,FLY Leasing Limited,NYQ,USA,Rental & Leasing Services,761
 MGH,Minco Gold Corporation,ASE,USA,Gold,134
 QIA.DE,Qiagen NV,GER,Germany,Medical Laboratories & Research,525
-THYAO.IS,TŸrk Hava Yollari Anonim Ortakligi,IST,Turkey,,0
+THYAO.IS,TÙrk Hava Yollari Anonim Ortakligi,IST,Turkey,,0
 TCL.AX,Transurban Group,ASX,Australia,Heavy Construction,635
 K01.SI,K1 Ventures Limited,SES,Singapore,Asset Management,422
 ECOS,EcoloCap Solutions Inc.,PNK,USA,Business Software & Services,826
@@ -26764,7 +26764,7 @@ FSW.V,Fireswirl Technologies Inc.,VAN,Canada,Internet Information Providers,851
 QLG.F,QLOGIC,FRA,Germany,Data Storage Devices,813
 NASGF,NORTHSTAR AEROSPACE,PNK,USA,,0
 SYAAF,Syrah Resources Limited,PNK,USA,,0
-DUE.DE,"DŸrr Aktiengesellschaft",GER,Germany,Diversified Machinery,622
+DUE.DE,"DÙrr Aktiengesellschaft",GER,Germany,Diversified Machinery,622
 7066@BN.KL,YONG TAI BHD,KLS,Malaysia,,0
 FKE.L,Fiske Plc,LSE,UK,Asset Management,422
 CXEEE,"China Xuefeng Environmental Engineering, Inc.",OBB,USA,,0
@@ -27377,7 +27377,7 @@ EXSFF,Explor Resources Inc.,PNK,USA,,0
 KEY.PA,"Keyrus Soci_t_ Anonyme",PAR,France,Information Technology Services,824
 PGH,Pengrowth Energy Corporation,NYQ,USA,Oil & Gas Drilling & Exploration,123
 SCE-PH,SCE Trust III Fixed/Floating Ra,NYQ,USA,,0
-ASOZF,Asseco Poland Sp—lka Akcyjna,PNK,USA,,0
+ASOZF,Asseco Poland SpÑlka Akcyjna,PNK,USA,,0
 MORN,Morningstar Inc.,NMS,USA,Information & Delivery Services,827
 RNHEF,Renhe Commercial Holdings Co Ltd,PNK,USA,,0
 PIQ.AX,Proteomics International Laboratories Limited,ASX,Australia,Biotechnology,515
@@ -27387,7 +27387,7 @@ PLXXF,Plexus Holdings plc,PNK,USA,,0
 DPAT,Dental Patient Care America Inc.,PNK,USA,,0
 CHCX,"CTGX Mining, Inc.",PNK,USA,,0
 QTE.PA,Quotium Technologies SA,PAR,France,Technical & System Software,822
-CTAX3.SA,Contax Participaç›es S.A.,SAO,Brazil,Business Services,760
+CTAX3.SA,Contax Participaç_es S.A.,SAO,Brazil,Business Services,760
 RYS2.DE,The Royal Bank of Scotland Group plc,GER,Germany,Money Center Banks,410
 RUKEF,RELX Group plc,PNK,USA,,0
 SPN.NZ,South Port New Zealand Limited,NZE,New Zealand,Shipping,775
@@ -27511,7 +27511,7 @@ ORT.SG,ORCO PROPERTY GROUP,STU,Germany,,0
 030960.KQ,"Yangjisa Co., Ltd.",KOE,South Korea,,0
 VCAN,"Vican Resources, Inc",PNK,USA,,0
 ZIL2.MU,ELRINGKLINGER N,MUN,Germany,Auto Parts,333
-BLHEF,"B‰loise Holding AG",PNK,USA,,0
+BLHEF,"Bäloise Holding AG",PNK,USA,,0
 YOC.F,YOC,FRA,Germany,Marketing Services,721
 MWET4F.SA,WETZEL S/A  PN,SAO,Brazil,,0
 NOVE.ST,AB Novestra (publ),STO,Sweden,Asset Management,422
