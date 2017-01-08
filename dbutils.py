@@ -29,11 +29,12 @@ class MarketDataStore:
          print ("pulling " + symbol)
          stock = Share(symbol)
          last_date = self.get_last_date(symbol)
-         ts = stock.get_historical(last_date.strftime("%Y-%m-%d"),today.strftime("%Y-%m-%d"))
-         
+         # filter out the strings in the returned list
+         ts_ = [t for t in stock.get_historical(last_date.strftime("%Y-%m-%d"),today.strftime("%Y-%m-%d")) if type(t) != type("")]
+         ts = [t for t in ts_ if t['Date'] == t['Date']] # check that date is not nan
          # when there is no data to retrieve, get_historical returns a list of strings where each string is the column name
          # when there is data, get_historical returns a list of dict
-         if len(ts) > 0 and type(ts[0]) != type(""): 
+         if len(ts) > 0:
             df = pandas.DataFrame(ts).set_index(['Symbol', 'Date'], drop=True, append=False, verify_integrity = True)
             print df
             df.to_sql(self.hist_data_tablename, self.con, schema=None, if_exists='append', index=True, index_label=['Symbol', 'Date'])
