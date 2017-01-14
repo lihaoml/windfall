@@ -18,75 +18,78 @@
 # ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 import urllib,time,datetime
+import urllib
+from urllib2 import urlopen
+from bs4 import BeautifulSoup
+import requests
+from datetime import datetime,date,timedelta
+import pandas as pd
 
-class Quote(object):
-  
-  DATE_FMT = '%Y-%m-%d'
-  TIME_FMT = '%H:%M:%S'
-  
-  def __init__(self):
-    self.symbol = ''
-    self.date,self.time,self.open_,self.high,self.low,self.close,self.volume = ([] for _ in range(7))
 
-  def append(self,dt,open_,high,low,close,volume):
-    self.date.append(dt.date())
-    self.time.append(dt.time())
-    self.open_.append(float(open_))
-    self.high.append(float(high))
-    self.low.append(float(low))
-    self.close.append(float(close))
-    self.volume.append(int(volume))
-      
-  def to_csv(self):
-    return ''.join(["{0},{1},{2},{3:.2f},{4:.2f},{5:.2f},{6:.2f},{7}\n".format(self.symbol,
-              self.date[bar].strftime('%Y-%m-%d'),self.time[bar].strftime('%H:%M:%S'),
-              self.open_[bar],self.high[bar],self.low[bar],self.close[bar],self.volume[bar]) 
-              for bar in xrange(len(self.close))])
+class GoogleQuoteGeneral():
+  def __init__(self, symbol,start_date, end_date=date.today().isoformat()):
+    self.symbol = symbol.upper()
+
+    df = pd.DataFrame()
     
-  def write_csv(self,filename):
-    with open(filename,'w') as f:
-      f.write(self.to_csv())
+    start = date(int(start_date[0:4]),int(start_date[5:7]),int(start_date[8:10]))
+    end = date(int(end_date[0:4]),int(end_date[5:7]),int(end_date[8:10]))
+    date_list = []
+    delta = 200 # the maximum row google's historical data page can display
+    intervals = (end - start).days / delta
+    for i in range(0, intervals + 1):
+      date_list.append( ( start+i*timedelta(delta), min(end, start+(i+1)*timedelta(delta)-timedelta(1)) )  )
+
+    for (d1, d2) in date_list:
+      url_string = "http://www.google.com/finance/historical?q={0}".format(self.symbol)
+      url_string += "&num=200&startdate={0}&enddate={1}".format(d1.strftime('%b %d, %Y'), d2.strftime('%b %d, %Y'))
+      print url_string
+
+      page2 = urllib.urlopen(url_string).read()
+      soup = BeautifulSoup(page2, "lxml")
+    
+      headers = [h.string.rstrip().encode() for h in soup.findAll("th")]
+      dct = {key: [] for key in headers}
+      for row in soup.find_all('tr')[5:]:
+        tds = [d.string.rstrip().encode() for d in row.find_all('td')]
+        for (h, d) in zip(headers, tds):
+          dct[h].append(d)
         
-  def read_csv(self,filename):
-    self.symbol = ''
-    self.date,self.time,self.open_,self.high,self.low,self.close,self.volume = ([] for _ in range(7))
-    for line in open(filename,'r'):
-      symbol,ds,ts,open_,high,low,close,volume = line.rstrip().split(',')
-      self.symbol = symbol
-      dt = datetime.datetime.strptime(ds+' '+ts,self.DATE_FMT+' '+self.TIME_FMT)
-      self.append(dt,open_,high,low,close,volume)
-    return True
+      dct['Date'] = [datetime.strptime(d, "%b %d, %Y").date() for d in dct['Date']]
+      dct['Volume'] = [int(d.replace(",", "")) for d in dct['Volume']]
+      dct['Open'] = [float(d.replace(",", "")) for d in dct['Open']]
+      dct['Close'] = [float(d.replace(",", "")) for d in dct['Close']]
+      dct['High'] = [float(d.replace(",", "")) for d in dct['High']]
+      dct['Low'] = [float(d.replace(",", "")) for d in dct['Low']]
 
-  def __repr__(self):
-    return self.to_csv()
-
+      if df.empty:
+        df = pd.DataFrame(dct).set_index('Date')
+      else:
+        df = df.append(pd.DataFrame(dct).set_index('Date'))
+      
+    print df
+    
    
-class GoogleQuote(Quote):
+class GoogleQuote():
   ''' Daily quotes from Google. Date format='yyyy-mm-dd' '''
-  def __init__(self,symbol,start_date,end_date=datetime.date.today().isoformat()):
-    super(GoogleQuote,self).__init__()
+  def __init__(self,symbol,start_date,end_date=date.today().isoformat()):
     self.symbol = symbol.upper()
     start = datetime.date(int(start_date[0:4]),int(start_date[5:7]),int(start_date[8:10]))
     end = datetime.date(int(end_date[0:4]),int(end_date[5:7]),int(end_date[8:10]))
     url_string = "http://www.google.com/finance/historical?q={0}".format(self.symbol)
-    url_string += "&startdate={0}&enddate={1}&output=csv".format(
+    url_string += "&output=csv&startdate={0}&enddate={1}".format(
                       start.strftime('%b %d, %Y'),end.strftime('%b %d, %Y'))
+
+    print url_string
     csv = urllib.urlopen(url_string).readlines()
-    csv.reverse()
-    for bar in xrange(0,len(csv)-1):
-      ds,open_,high,low,close,volume = csv[bar].rstrip().split(',')
-      open_,high,low,close = [float(x) for x in [open_,high,low,close]]
-      dt = datetime.datetime.strptime(ds,'%d-%b-%y')
-      self.append(dt,open_,high,low,close,volume)
+    soup = BeautifulSoup(csv, 'html.parser')
+    print soup
+    print csv
  
 if __name__ == '__main__':
-  q = GoogleQuote('aapl','2011-01-01')              # download year to date Apple data
+  q = GoogleQuoteGeneral('BN4','2016-01-01')            # download year to date Apple data
   print q                                           # print it out
-  q = GoogleQuote('orcl','2011-11-01','2011-11-30') # download Oracle data for February 2011
-  q.write_csv('orcl.csv')                           # save it to disk
-  q = Quote()                                       # create a generic quote object
-  q.read_csv('orcl.csv')                            # populate it with our previously saved data
-  print q                                           # print it out
-  
+  # q = GoogleQuote('orcl','2011-11-01','2011-11-30') # download Oracle data for February 2011
+  # print q
 
 
