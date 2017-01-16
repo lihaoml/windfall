@@ -37,7 +37,7 @@ class MarketDataStore:
          last_date = self.get_last_date(self.hist_data_yahoo_tablename, symbol)
          print last_date
          # filter out the strings in the returned list
-         ts_ = [t for t in stock.get_historical(last_date.strftime("%Y-%m-%d"), today.strftime("%Y-%m-%d")) if type(t) != type("")]
+         ts_ = [t for t in stock.get_historical((last_date+timedelta(1)).strftime("%Y-%m-%d"), today.strftime("%Y-%m-%d")) if type(t) != type("")]
          ts = [t for t in ts_ if t['Date'] == t['Date']] # check that date is not nan
          # when there is no data to retrieve, get_historical returns a list of strings where each string is the column name
          # when there is data, get_historical returns a list of dict
